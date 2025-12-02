@@ -42,7 +42,6 @@ I performed a code review of all three artifacts early in the project.
 The video explains the original functionality, limitations, and my enhancement plan.
 
 📺 **[Watch Code Review Video]([https://youtu.be/your-link](https://youtu.be/rEKlZLvnlIg))**  
-(Replace with your real link)
 
 ---
 
