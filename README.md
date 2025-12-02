@@ -39,43 +39,43 @@ Each artifact includes the original source code, my enhanced version, and a writ
 
 [Read my Professional Self Assessment](self assessment/self assessment.pdf)  
 
-This self assessment summarizes my journey through the Computer Science program and this capstone. It explains how my coursework, enhancements, and Navy experience shaped my goals in information security and secure software engineering. It also explains how my work demonstrates the CS program outcomes in collaboration, communication, algorithmic problem solving, software engineering, databases, and security.
+This self-assessment summarizes my journey through the Computer Science program and this capstone. It explains how my coursework, enhancements, and Navy experience shaped my goals in information security and secure software engineering. It also explains how my work demonstrates the CS program outcomes in collaboration, communication, algorithmic problem solving, software engineering, databases, and security.
 
 ---
 
 ### Self-Reflections.
 
-[Journal: Self-Introduction](CS499/")
+[Journal: Self-Introduction](CS499/CS499_Module1_Assignment.pdf)
 
-Short reflection that introduces my background, Navy experience, and reasons for studying computer science. It connects course concepts to my real life responsibilities in healthcare and radiation health.  
+Short reflection that introduces my background, Navy experience, and reasons for studying computer science. It connects course concepts to my real-life responsibilities in healthcare and radiation health.  
 
-[Journal: What Makes a Productive Code Review?](CS499/")
+[Journal: What Makes a Productive Code Review?](CS499/CS499_Module2_Journal.pdf)
 
 Reflection on effective code review habits, timing in the development process, and how respectful feedback improves code quality and teamwork.  
 
-[Journal: Marketing With ePortfolios and Artifact Update](CS499/")
+[Journal: Marketing With ePortfolios and Artifact Update](CS499/CS499_Module3_Journal.pdf)
 
 Discussion of how an ePortfolio can be used for personal branding, the risks of posting code online, and an early update on my artifact choices.  
 
-[Journal: Career Choice](CS499/")
+[Journal: Career Choice](CS499/CS499_Module4_Journal.pdf)
 
 Reflection on my long-term career interest in information security, how my thinking changed during the program, and how my three artifacts support my goals.  
 
-[Journal: Computer Science Trends and Artifact Update](CS499/")
+[Journal: Computer Science Trends and Artifact Update](CS499/CS499_Module5_Journal.pdf)
 
-Reflection on major trends such as artificial intelligence and cloud computing and how they align with my interest in secure systems and automation. Includes a checkpoint table for my artifacts.  
+Reflection on major trends such as artificial intelligence and cloud computing, and how they align with my interest in secure systems and automation. Includes a checkpoint table for my artifacts.  
 
-[Journal: Emerging Technology and Artifact Update](CS499/")
+[Journal: Emerging Technology and Artifact Update](CS499/CS499_Module6_Journal.pdf)
 
-Discussion of selected emerging technologies, such as quantum resistant cryptography and ambient intelligent systems, and how they may affect my career in security. Includes a status update for all three enhancements.  
+Discussion of selected emerging technologies, such as quantum-resistant cryptography and ambient intelligent systems, and how they may affect my career in security. Includes a status update for all three enhancements.  
 
-[Journal: Capstone Reflection](CS499/")
+[Journal: Capstone Reflection](CS499/CS499_Module7_Journal.pdf)
 
 Final reflection that looks back on the capstone, how I met the five course outcomes, and how the three artifacts come together to represent my best work.  
 
 ### ePortfolio Selection and Software Design Document
 
-[CS499/")
+[CS499/CS499_Module1_Assignment.pdf](CS499/CS499_Module1_Assignment.pdf)
 
 This document describes my initial plan for the ePortfolio. It explains why I chose each artifact, how I mapped them to the three categories, and how I planned to enhance them for the capstone. It also outlines the system design for the Travlr Getaways application:
 
@@ -112,12 +112,12 @@ I outline the improvements I later implemented in the three enhancement mileston
 ### Artifact  
 
 **Travlr Getaways Full Stack Web Application (CS 465)**  
-[Original Code](artifacts/software design/travlr original.zip)  
-[Enhanced Code](artifacts/software design/travlr enhanced.zip)  
+[Original Code](original/CS465)  
+[Enhanced Code](enhancement/CS465)  
 
 ### Narrative  
 
-[Read Software Engineering and Design Narrative](artifacts/software design/travlr narrative.pdf)  
+[Read Software Engineering and Design Narrative](CS499/CS499_Module3_Milestone_Two.pdf)  
 
 This narrative explains why I selected Travlr Getaways for the software design category and how I enhanced the architecture, authentication, and user experience. It also describes how these changes align with Outcomes Four and Five by utilizing secure engineering practices and modern tools.
 
@@ -128,12 +128,12 @@ This narrative explains why I selected Travlr Getaways for the software design c
 ### Artifact  
 
 **Deep Q Learning Treasure Hunt Project (CS 370)**  
-[Original Code](artifacts/algorithms/treasure hunt original.zip)  
-[Enhanced Code](artifacts/algorithms/treasure hunt enhanced.zip)  
+[Original Code](original/CS370/CS370-Deep_Q-Learning_Cartpole-Original/CS370-Deep_Q-Learning_Cartpole-Original)  
+[Enhanced Code](enhancement/CS370/CS370-Deep_Q-Learning_Cartpole-Enhanced)  
 
 ### Narrative  
 
-[Read Algorithms and Data Structures Narrative](artifacts/algorithms/treasure hunt narrative.pdf)  
+[Read Algorithms and Data Structures Narrative](CS499/CS499_Module4_Milestone_Three.pdf)  
 
 This narrative explains how I improved the qtrain function, structured replay memory, and documented the time complexity of the algorithm. It demonstrates how the enhanced treasure hunt project achieves Outcome Three through algorithm design, performance reasoning, and improved data structure utilization.
 
@@ -144,18 +144,18 @@ This narrative explains how I improved the qtrain function, structured replay me
 ### Artifact  
 
 **Amos Weight Tracking App for Android (CS 360)**  
-[Original Code](artifacts/databases/weight tracker original.zip)  
-[Enhanced Code](artifacts/databases/weight tracker enhanced.zip)  
+[Original Code](original/CS360/CS360-AmosWeightTrackerApp-Original.zip)  
+[Enhanced Code](enhancement/CS360/CS360-AmosWeightTrackerApp-Enhanced.zip)  
 
 ### Narrative  
 
-[Read Databases Narrative](artifacts/databases/weight tracker narrative.pdf)  
+[Read Databases Narrative](CS499/CS499_Module5_Milestone_Four.pdf)  
 
 This narrative describes how I upgraded the database layer, added encryption and secure password storage, improved SQL queries, and built a visual progress chart. It shows how the artifact demonstrates both database skills and a strong security mindset that protects sensitive health data.
 
 ---
 
-[![ePortfolio Home](https://img.shields.io/badge/Home-ePortfolio-purple.svg?style=for-the-badge&logo=homeassistant)](https://github.com/rolandra1/rolandra1.github.io "Back to ePortfolio Home") [![License badge](https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License")
+[![ePortfolio Home](https://img.shields.io/badge/Home-ePortfolio-cyan.svg?style=for-the-badge&logo=homeassistant)](https://github.com/rolandra1/rolandra1.github.io "Back to ePortfolio Home") [![License badge](https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License")
 
 ---
 
