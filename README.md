@@ -12,7 +12,7 @@
 [![Generic badge](https://img.shields.io/badge/language-Markdown_|_HTML-EE9B00.svg)](https://www.markdownguide.org/) 
 [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-CA6702.svg)](https://desktop.github.com/) 
 [![Generic badge](https://img.shields.io/badge/editor-Markdown_Monster-005F73.svg)](https://markdownmonster.west-wind.com/) 
-[![Generic badge](https://img.shields.io/badge/license-MIT-001219.svg)](LICENSE)
+[![Generic badge](https://img.shields.io/badge/license-MIT-cyan.svg)](LICENSE)
 
 
 
@@ -30,7 +30,7 @@ Each artifact includes the original source code, my enhanced version, and a writ
 ---
 
 <div style="text-align: center;">
-    <a href="https://github.com/rolandra1/rolandra1.github.io" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-green.svg?style=for-the-badge&logo=homeassistant" /></a>
+    <a href="https://github.com/rolandra1/rolandra1.github.io" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-cyan.svg?style=for-the-badge&logo=homeassistant" /></a>
 </div>
 
 ---
@@ -59,7 +59,7 @@ Discussion of how an ePortfolio can be used for personal branding, the risks of 
 
 [Journal: Career Choice](CS499/")
 
-Reflection on my long term career interest in information security, how my thinking changed during the program, and how my three artifacts support my goals.  
+Reflection on my long-term career interest in information security, how my thinking changed during the program, and how my three artifacts support my goals.  
 
 [Journal: Computer Science Trends and Artifact Update](CS499/")
 
