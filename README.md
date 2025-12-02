@@ -85,7 +85,7 @@ This document describes my initial plan for the ePortfolio. It explains why I ch
 
 ### Code Review
 
-[Code Review of the three Artifacts]("https://youtu.be/rEKlZLvnlIg/")
+[Code Review of the three Artifacts](https://youtu.be/rEKlZLvnlIg)
 
 In this video, I walk through the original versions of my three artifacts:  
 
