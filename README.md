@@ -17,9 +17,14 @@
 
 ## Overview
 
-Loading......
+This ePortfolio presents my final work for the CS 499 Computer Science Capstone at Southern New Hampshire University. It brings together three enhanced artifacts from my program:  
 
-Loading......
+* A full stack travel booking site (software engineering and design)  
+* A deep reinforcement learning treasure hunt project (algorithms and data structures)  
+* A secure Android weight tracking app (databases and mobile security)  
+
+Each artifact includes the original source code, my enhanced version, and a written narrative that explains the improvements, the skills I gained, and the program outcomes I met. Together, these pieces show my growth as a computer science student with a focus on secure software development and information security.
+
 
 ---
 
@@ -29,41 +34,49 @@ Loading......
 
 ---
 
+## Professional Self Assessment  
+
+[Read my Professional Self Assessment](self assessment/self assessment.pdf)  
+
+This self assessment summarizes my journey through the Computer Science program and this capstone. It explains how my coursework, enhancements, and Navy experience shaped my goals in information security and secure software engineering. It also explains how my work demonstrates the CS program outcomes in collaboration, communication, algorithmic problem solving, software engineering, databases, and security.
+
+---
+
 ### Self-Reflections.
 
 [Journal: Self-Introduction](CS499/")
 
-Loading......
+Short reflection that introduces my background, Navy experience, and reasons for studying computer science. It connects course concepts to my real life responsibilities in healthcare and radiation health.  
 
 [Journal: What Makes a Productive Code Review?](CS499/")
 
-Loading......
+Reflection on effective code review habits, timing in the development process, and how respectful feedback improves code quality and teamwork.  
 
 [Journal: Marketing With ePortfolios and Artifact Update](CS499/")
 
-Loading......
+Discussion of how an ePortfolio can be used for personal branding, the risks of posting code online, and an early update on my artifact choices.  
 
 [Journal: Career Choice](CS499/")
 
-Loading......
+Reflection on my long term career interest in information security, how my thinking changed during the program, and how my three artifacts support my goals.  
 
 [Journal: Computer Science Trends and Artifact Update](CS499/")
 
-Loading......
+Reflection on major trends such as artificial intelligence and cloud computing and how they align with my interest in secure systems and automation. Includes a checkpoint table for my artifacts.  
 
 [Journal: Emerging Technology and Artifact Update](CS499/")
 
-Loading......
+Discussion of selected emerging technologies, such as quantum resistant cryptography and ambient intelligent systems, and how they may affect my career in security. Includes a status update for all three enhancements.  
 
 [Journal: Capstone Reflection](CS499/")
 
-Loading......
+Final reflection that looks back on the capstone, how I met the five course outcomes, and how the three artifacts come together to represent my best work.  
 
 ### ePortfolio Selection and Software Design Document
 
 [CS499/")
 
-Loading.....:
+This document describes my initial plan for the ePortfolio. It explains why I chose each artifact, how I mapped them to the three categories, and how I planned to enhance them for the capstone. It also outlines the system design for the Travlr Getaways application:
 
 * Software engineering and design
 * Algorithms and data structures
@@ -73,31 +86,71 @@ Loading.....:
 
 [Code Review of the three Artifacts]("https://youtu.be/rEKlZLvnlIg/")
 
-Loading......
+In this video, I walk through the original versions of my three artifacts:  
 
-* Code Analysis:.
-* Existing functionality:.
-* Enhancements:.
+* Travlr Getaways full-stack web application  
+* Deep Q learning treasure hunt project  
+* Android weight tracking app  
 
-### Enhancement: Software Engineering and Design
+I explain the existing functionality, identify limits in structure, logic, security, and documentation, and describe my planned enhancements.  
 
-[Software Engineering and Design Narrative](CS499/")
+**Code Analysis**  
+I comment on code structure, clarity, testing, and security concerns. I also highlight places where I could improve modularity, reuse, and error handling.  
 
-Loading......
+**Existing Functionality**  
+I give a clear overview of what each project can do before enhancement, such as browsing trips, training an agent in a maze, or storing weight entries on the device.  
 
-### Enhancement: Algorithms and Data Structures
+**Planned Enhancements**  
+I outline the improvements I later implemented in the three enhancement milestones. These include adding authentication, improving algorithms, securing data at rest, and refining user interfaces.
 
-[Algorithms and Data Structures Narrative](CS499/")
 
-Loading...... 
+---
 
-Loading......
+## Enhancement One: Software Engineering and Design  
 
-### Enhancement: Databases
+### Artifact  
 
-[Databases Narrative](CS499/")
+**Travlr Getaways Full Stack Web Application (CS 465)**  
+[Original Code](artifacts/software design/travlr original.zip)  
+[Enhanced Code](artifacts/software design/travlr enhanced.zip)  
 
-Loading......
+### Narrative  
+
+[Read Software Engineering and Design Narrative](artifacts/software design/travlr narrative.pdf)  
+
+This narrative explains why I selected Travlr Getaways for the software design category and how I enhanced the architecture, authentication, and user experience. It also describes how these changes align with Outcomes Four and Five by utilizing secure engineering practices and modern tools.
+
+---
+
+## Enhancement Two: Algorithms and Data Structures  
+
+### Artifact  
+
+**Deep Q Learning Treasure Hunt Project (CS 370)**  
+[Original Code](artifacts/algorithms/treasure hunt original.zip)  
+[Enhanced Code](artifacts/algorithms/treasure hunt enhanced.zip)  
+
+### Narrative  
+
+[Read Algorithms and Data Structures Narrative](artifacts/algorithms/treasure hunt narrative.pdf)  
+
+This narrative explains how I improved the qtrain function, structured replay memory, and documented the time complexity of the algorithm. It demonstrates how the enhanced treasure hunt project achieves Outcome Three through algorithm design, performance reasoning, and improved data structure utilization.
+
+---
+
+## Enhancement Three: Databases  
+
+### Artifact  
+
+**Amos Weight Tracking App for Android (CS 360)**  
+[Original Code](artifacts/databases/weight tracker original.zip)  
+[Enhanced Code](artifacts/databases/weight tracker enhanced.zip)  
+
+### Narrative  
+
+[Read Databases Narrative](artifacts/databases/weight tracker narrative.pdf)  
+
+This narrative describes how I upgraded the database layer, added encryption and secure password storage, improved SQL queries, and built a visual progress chart. It shows how the artifact demonstrates both database skills and a strong security mindset that protects sensitive health data.
 
 ---
 
