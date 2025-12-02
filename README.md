@@ -8,18 +8,19 @@
 
 ---
 
-[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-lightgreen.svg)](https://pages.github.com/) 
-[![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-cyan.svg)](https://www.markdownguide.org/) 
-[![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) 
-[![Generic badge](https://img.shields.io/badge/editor-Markdown_Monster-green.svg)](https://markdownmonster.west-wind.com/) 
-[![Generic badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-0A9396.svg)](https://pages.github.com/) 
+[![Generic badge](https://img.shields.io/badge/language-Markdown_|_HTML-EE9B00.svg)](https://www.markdownguide.org/) 
+[![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-CA6702.svg)](https://desktop.github.com/) 
+[![Generic badge](https://img.shields.io/badge/editor-Markdown_Monster-005F73.svg)](https://markdownmonster.west-wind.com/) 
+[![Generic badge](https://img.shields.io/badge/license-MIT-001219.svg)](LICENSE)
+
 
 
 ## Overview
 
 This ePortfolio presents my final work for the CS 499 Computer Science Capstone at Southern New Hampshire University. It brings together three enhanced artifacts from my program:  
 
-* A full stack travel booking site (software engineering and design)  
+* A full-stack travel booking site (software engineering and design)  
 * A deep reinforcement learning treasure hunt project (algorithms and data structures)  
 * A secure Android weight tracking app (databases and mobile security)  
 
