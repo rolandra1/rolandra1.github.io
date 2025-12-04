@@ -132,7 +132,7 @@ These enhancements support the security mindset outcome while modernizing the ar
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-        src="https://youtu.be/389YtSmOUXU" 
+        src="https://youtu.be/" 
         title="Code Review Video" 
         frameborder="0" allowfullscreen></iframe>
     </div>
