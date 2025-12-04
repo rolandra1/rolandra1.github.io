@@ -1,76 +1,24 @@
-# ===============================
-#   CS-499 ePortfolio Settings
-# ===============================
-
-title: "Amos Roland – CS 499 ePortfolio"
-description: "Software Engineering, Algorithms, and Databases Enhancements for the Capstone"
+title: "Amos Roland | CS-499 Capstone ePortfolio"
+description: "Southern New Hampshire University | Bachelor of Science in Computer Science | Capstone Project and Enhanced Artifacts"
+author: Amos Roland
+email: rolandrichardamos@gmail.com
+baseurl: ""  
 url: "https://rolandra1.github.io"
-baseurl: ""   
-
-# --------------------------------
-# Jekyll Theme
-# --------------------------------
-theme: minima   # Or: "jekyll-theme-slate", "jekyll-theme-cayman", etc.
-
-# --------------------------------
-# Markdown & Processing
-# --------------------------------
+theme: minima 
 markdown: kramdown
-kramdown:
-  input: GFM        # GitHub-Flavored Markdown
-  hard_wrap: false
-
-# --------------------------------
-# Plugins (GitHub Pages Safe)
-# --------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
 
-# --------------------------------
-# Build Settings
-# --------------------------------
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - artifacts.md
+  - enhancements.md
+  - resume.md
 
-# --------------------------------
-# Navigation (Optional but useful)
-# --------------------------------
-# This creates a site-wide nav bar if your theme supports it.
-# If not, leave it in place for future expansion.
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "CS 465 – Software Engineering"
-    url: "/CS465.html"
-  - title: "CS 370 – Algorithms and Data Structures"
-    url: "/CS370.html"
-  - title: "CS 360 – Databases"
-    url: "/CS360.html"
-  - title: "Code Review"
-    url: "/CodeReview.html"
-  - title: "Professional Self Assessment"
-    url: "/index.html#self-assessment"
-
-# --------------------------------
-# Author Metadata
-# --------------------------------
-author:
-  name: "Amos Roland"
-  email: "rolandrichardamos@gmail.com"
+# SEO and social
+social_links:
   github: rolandra1
-
-# --------------------------------
-# Collections (Optional)
-# --------------------------------
-# If you ever want to create a journals folder that's auto-rendered.
-collections:
-  journals:
-    output: true
-    permalink: /journals/:name
-
+  linkedin: 
