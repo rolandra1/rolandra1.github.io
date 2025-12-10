@@ -22,7 +22,7 @@ This ePortfolio presents my final work for the CS 499 Computer Science Capstone 
 
 * A full-stack travel booking site (software engineering and design)  
 * A deep reinforcement learning treasure hunt project (algorithms and data structures)  
-* A secure Android weight tracking app (databases and mobile security)  
+* A secure Android weight tracking app (databases)  
 
 Each artifact includes the original source code, my enhanced version, and a written narrative that explains the improvements, the skills I gained, and the program outcomes I met. Together, these pieces show my growth as a computer science student with a focus on secure software development and information security.
 
