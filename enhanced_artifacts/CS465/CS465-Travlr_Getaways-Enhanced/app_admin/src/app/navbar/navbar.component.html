@@ -1,0 +1,67 @@
+<nav class="navbar navbar-expand navbar-light bg-light">
+    <!--
+    Brand Logo
+    ----------
+    This logo appears on all pages as part of the admin shell.
+-->
+    <a class="navbar-brand" routerLink="">
+        <img src="/assets/images/logo.png" alt="Travlr Getaways Admin Logo" />
+    </a>
+
+    <!--
+    Mobile Navbar Toggle (if using Bootstrap JS/CSS)
+-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!--
+    Main Navigation Links
+    ---------------------
+    Currently only the Trips list is shown, but additional
+    routes can be added here as the admin portal grows.
+-->
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-link" routerLink="" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+                Trips
+            </a>
+        </div>
+    </div>
+
+    <!--
+    Authentication Controls
+    -----------------------
+    The right side of the navbar shows:
+- "Log In" when the user is not authenticated
+    - "Log Out" when a JWT is present and valid
+-->
+    <div class="navbar-end ml-auto pr-3">
+        <!-- Show Log In when NOT logged in -->
+        <a class="nav-item nav-link" routerLink="login" *ngIf="!isLoggedIn()">
+            <span class="has-icon-left">Log In</span>
+        </a>
+
+        <!-- Show Log Out when logged in -->
+        <a class="nav-item nav-link active" (click)="onLogout()" *ngIf="isLoggedIn()">
+            <span class="has-icon-left">Log Out</span>
+        </a>
+    </div>
+</nav>
+<!-- Show welcome message only when user is NOT logged in -->
+<div *ngIf="!isLoggedIn()" class="alert alert-primary text-center mt-3 mb-4 shadow-sm">
+<h4 class="fw-bold mb-1">Welcome to the Travlr Admin Portal</h4>
+<p class="mb-0">Please log in to continue managing trips.</p>
+</div>
+
+<!--
+Programmer: Amos Roland
+Date: 2025-11-16
+Version: 6.0.1
+Description: This is the HTML template for the NavbarComponent in the admin portal of the Travlr Getaways application.
+It provides navigation links and authentication controls based on user login state.
+Course: CS-499- CS Capstone
+Course Origin CS465-Full Stack Development I
+School name: Southern New Hampshire University
+-->
