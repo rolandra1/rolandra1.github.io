@@ -37,7 +37,7 @@ Each artifact includes the original source code, my enhanced version, and a writ
 
 ## Professional Self Assessment  
 
-[Read my Professional Self Assessment](self assessment/self assessment.pdf)  
+[Read my Professional Self Assessment](Self Assessment/Proffessional Self Assessment.md)  
 
 This self-assessment summarizes my journey through the Computer Science program and this capstone. It explains how my coursework, enhancements, and Navy experience shaped my goals in information security and secure software engineering. It also explains how my work demonstrates the CS program outcomes in collaboration, communication, algorithmic problem solving, software engineering, databases, and security.
 
