@@ -4,7 +4,7 @@ title: "My CS 499 ePortfolio – Amos Roland"
 ---
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask_me!-email-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:rolandrichardamos@gmail.com "Contact me")&nbsp;
-[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue.svg?style=for-the-badge&logo=github)](https://rolandra1.github.io/ "My GitHub Pages")&nbsp;
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue.svg?style=for-the-badge&logo=github)](https://rolandra1.github.io/ "ROLANDRA1.US")&nbsp;
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/rolandra1/rolandra1.github.io?style=for-the-badge&logo=github "Last update")
 
 # My ePortfolio  
