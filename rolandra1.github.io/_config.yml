@@ -1,0 +1,24 @@
+title: "Amos Roland | CS-499 Capstone ePortfolio"
+description: "Southern New Hampshire University | Bachelor of Science in Computer Science | Capstone Project and Enhanced Artifacts"
+author: Amos Roland
+email: rolandrichardamos@gmail.com
+baseurl: ""  
+url: "https://rolandra1.github.io"
+theme: minima 
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - artifacts.md
+  - enhancements.md
+  - resume.md
+
+# SEO and social
+social_links:
+  github: rolandra1
+  linkedin: 

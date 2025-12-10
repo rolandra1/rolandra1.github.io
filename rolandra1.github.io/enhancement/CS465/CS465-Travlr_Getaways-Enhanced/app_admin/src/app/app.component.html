@@ -1,0 +1,20 @@
+<!-- src/app/app.component.html -->
+
+<!--
+  Global Navigation Bar
+  ---------------------
+  The navbar is rendered on every page because it appears
+  outside the <router-outlet>. It provides navigation links
+  and login/logout functionality based on authentication state.
+-->
+<app-navbar></app-navbar>
+
+<!--
+  Application View Container
+  --------------------------
+  All routed components render inside the router-outlet.
+  This is the central outlet for the Angular SPA.
+-->
+<div class="container pt-3">
+  <router-outlet></router-outlet>
+</div>
