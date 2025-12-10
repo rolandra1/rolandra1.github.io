@@ -3,20 +3,20 @@ layout: default
 title: "My CS 499 ePortfolio – Amos Roland"
 ---
 
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-email-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:your_email@example.com "Contact me")&nbsp;
-[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue.svg?style=for-the-badge&logo=github)](https://your-username.github.io/ "My GitHub Pages")&nbsp;
-![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=for-the-badge&logo=github "Last update")
+[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-email-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:rolandrichardamos@gmail.com "Contact me")&nbsp;
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue.svg?style=for-the-badge&logo=github)](https://rolandra1.github.io/ "My GitHub Pages")&nbsp;
+![GitHub Last Commit](https://img.shields.io/github/last-commit/rolandra1/rolandra1.github.io?style=for-the-badge&logo=github "Last update")
 
 # My ePortfolio  
 CS 499 Computer Science Capstone
 
-Welcome to my ePortfolio for CS 499. This site presents my professional self assessment, code review, and three enhanced artifacts that represent my growth in:
+Welcome to my ePortfolio for CS 499. This site presents my professional self-assessment, code review, and three enhanced artifacts that represent my growth in:
 
 - Software design and engineering  
 - Algorithms and data structures  
 - Databases  
 
-Each artifact page includes an overview, enhancement summary, alignment to course outcomes, reflection, and links to the source code in GitHub.
+Each artifact page includes an overview, an enhancement summary, alignment with course outcomes, a reflection, and links to the source code on GitHub.
 
 ---
 
