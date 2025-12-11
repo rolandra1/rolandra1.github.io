@@ -1,10 +1,10 @@
 ---
 layout: default
+title: Professional Self-Assessment
 ---
 
-# Professional Self-Assessment
-
-Amos Roland  
+# Professional Self-Assessment  
+**Amos Roland**  
 Southern New Hampshire University  
 CS 499 Computer Science Capstone  
 Professor Akhil Gudivada  
@@ -14,103 +14,128 @@ December 2025
 
 ## Introduction
 
-Completing the Computer Science program at Southern New Hampshire University and building my CS 499 ePortfolio has helped me understand who I am as a developing computer science professional. When I started this program, I mainly saw myself as a future information security specialist. Through my coursework, projects, and capstone work, my thinking has grown into a broader view of myself as a software professional with strengths in secure software engineering, algorithms and data structures, and database design.
+Completing the Computer Science program at Southern New Hampshire University and building my CS 499 ePortfolio have helped me understand who I am as a developing computer science professional. When I began this program, I primarily envisioned myself as a future information security specialist. Through my coursework, projects, and capstone, my perspective expanded into a broader identity as a software professional with strengths in secure software engineering, algorithms and data structures, and database design.
 
-This professional self-assessment introduces my skills, values, and goals and explains how my artifacts work together to meet the Computer Science program outcomes. It also describes how my experience in the program connects to my work as a United States Navy Hospital Corpsman, where I already handle sensitive medical and radiation health data. Bringing together these two sides of my life prepared me to move into roles that involve secure software development and information security.
+This professional self-assessment introduces my skills, values, and goals and explains how my artifacts work together to meet the Computer Science program outcomes. It also connects my academic experience to my work as a United States Navy Hospital Corpsman, where I manage sensitive medical and radiation health data on a daily basis. Combining these two sides of my life prepared me to pursue secure software development and information security roles.
 
 ---
 
 ## Growth Through Coursework and the Capstone
 
-My coursework and capstone work helped me build a strong foundation in both theory and practice. In courses like CS 260, CS 320, CS 340, CS 360, CS 370, CS 405, CS 465, and database-related work, I learned how to design, implement, test, and secure real applications. Throughout the program, I improved my knowledge in three main technical areas: software engineering and design, algorithms and data structures, and databases.
+The Computer Science program provided a strong foundation in both theory and practical implementation. Courses such as CS 260, CS 320, CS 340, CS 360, CS 370, CS 405, and CS 465 helped me develop skills in software development, testing, secure coding, artificial intelligence, and full-stack application design.
 
-The CS 499 capstone required me to return to three major artifacts and enhance them to meet professional expectations:
+The CS 499 capstone required me to revisit and enhance three major artifacts:
 
-- My **Travlr Getaways Full-Stack Web Application** from CS 465 represents software engineering and design and is documented in my [CS465 artifact page](../CS465).
-- My **Deep Q-Learning Treasure Hunt project** from CS 370 represents algorithms and data structures and is documented in my [CS370 artifact page](../CS370).
-- My **Android Weight Tracking App** from CS 360 represents database design and secure data handling and is documented in my [CS360 artifact page](../CS360).
+- **CS 465 – Travlr Getaways Full-Stack Web Application**  
+  Represents *software engineering and design*  
+  ([View Artifact](../CS465))
 
-By reviewing, improving, and documenting these artifacts, I developed a clearer sense of my strengths and how I want to position myself in the job market.
+- **CS 370 – Deep Q-Learning Treasure Hunt**  
+  Represents *algorithms and data structures*  
+  ([View Artifact](../CS370))
+
+- **CS 360 – Android Weight Tracking App**  
+  Represents *database design and secure data handling*  
+  ([View Artifact](../CS360))
+
+Enhancing these projects helped me understand how to transform student coursework into industry-aligned portfolio pieces. It strengthened my professional identity and helped me prepare for secure software roles.
 
 ---
 
 ## Collaborating in a Team Environment
 
-Although many of my capstone tasks were individual, my overall experience in the program and in the Navy has trained me to work in team environments. In earlier courses, I collaborated with classmates on discussion posts, peer feedback, and shared problem solving. I learned how to accept suggestions, refine my code based on comments, and explain my choices in a clear and respectful way.
+While many capstone tasks were individual, the program as a whole taught me how to function in collaborative environments. Through discussions, peer feedback, and shared problem-solving, I learned how to adjust my work based on suggestions and explain technical decisions clearly.
 
-My Navy experience also shaped my collaboration skills. As a Hospital Corpsman and Radiation Health Technician, I work with providers, ship leadership, and junior sailors to keep medical readiness high. I am used to coordinating checklists, tracking follow-ups, and sharing information in a way that supports team decisions. This background carries over to software work, where code reviews, stand-up meetings, and shared repositories are just another form of mission coordination.
+My Navy experience also shaped my collaboration skills. As a Hospital Corpsman and Radiation Health Technician, I regularly coordinate with medical staff, ship leadership, and junior sailors. These responsibilities strengthened my ability to communicate professionally, track requirements, and support team decisions—skills that translate directly to software development workflows such as code reviews, sprint meetings, and stakeholder updates.
 
-Through the capstone, I practiced collaboration in a different form by treating my instructor as my main stakeholder. I took feedback from my milestone submissions and turned it into better code and better narratives. This process felt similar to receiving guidance from a supervisor and adjusting my work to meet a higher standard.
+Throughout the capstone, I treated my instructor as a stakeholder. I interpreted feedback from milestones and refined my artifacts accordingly, similar to responding to guidance from a supervisor during a project cycle.
 
 ---
 
 ## Communicating With Stakeholders
 
-The capstone required me to practice professional communication in several formats. My code review video tested my ability to walk through existing code, explain current functionality, and communicate planned enhancements in a way that would make sense to a non-expert stakeholder such as a manager. I had to slow down, avoid unnecessary jargon, and focus on the “why” behind each change.
+Professional communication was a major component of the capstone. My **code review video** required me to walk through existing code, explain functionality, and justify planned enhancements in a simple, structured, and understandable manner. This exercise mirrored real-world developer duties, where clarity and accuracy are essential during presentations and design reviews.
 
-Each narrative for my three artifacts was another form of stakeholder communication. I wrote them in simple college English, while still using correct technical vocabulary. I explained what the project was, why I selected it, what I changed, and which course outcomes I met. This helped me think like a developer who must justify design decisions to business owners, security officers, or other engineers.
-
-In my future career in information security and secure software engineering, I will often speak to people who are not programmers. The practice I gained through journals, narratives, and this self-assessment improved my confidence in presenting technical ideas in a clear and respectful way.
+My enhancement narratives and this self-assessment further strengthened my technical writing. I learned how to adapt my communication for non-technical audiences and decision-makers. These skills will be essential as I move into secure software development or information security roles, where explaining risks and design decisions is a core responsibility.
 
 ---
 
 ## Data Structures and Algorithms
 
-The algorithms and data structures category is represented in my ePortfolio by my enhanced **Deep Q-Learning Treasure Hunt** project from CS 370, documented in the [CS370 artifact page](../CS370). In this project, a pirate agent learns to navigate an eight-by-eight maze to reach a treasure using reinforcement learning and a neural network. The core of the enhancement focused on the `qtrain` training function.
+My enhanced **Deep Q-Learning Treasure Hunt** project represents the algorithms and data structures category. In this project, a reinforcement learning agent navigates an 8×8 maze to reach a treasure. I enhanced key algorithmic components, including:
 
-Through this artifact, I demonstrated my ability to design and evaluate computing solutions using algorithmic principles. I worked with an epsilon-greedy policy, replay memory, and a training loop that balances exploration and exploitation. I used a replay buffer that behaves like a bounded queue, which is a direct application of data structure concepts. I also documented the approximate time complexity of the training loop, mini-batch sampling, and prediction steps and reflected on the trade-offs between training frequency and runtime.
+- Epsilon-greedy exploration  
+- Experience replay buffer using queue-like behavior  
+- Batch training loop  
+- Time complexity and training trade-off analysis  
 
-Enhancing this artifact helped me meet the course outcome related to designing and evaluating computing solutions with algorithms and data structures. It also deepened my understanding of how theoretical ideas from reinforcement learning become practical code that must be efficient and stable.
+These enhancements demonstrate my ability to apply algorithmic principles, reason about performance, and evaluate solution design choices using computer science standards. The project also deepened my understanding of reinforcement learning and neural network-based decision-making.
 
 ---
 
 ## Software Engineering and Databases
 
-The software engineering and design outcome is represented by my **Travlr Getaways Full-Stack Web Application**, which started in CS 465 and is described in the [CS465 artifact page](../CS465). I converted a server-side rendered travel site into a more modern design with cleaner architecture, secure authentication, and better user experience. I added JSON Web Token (JWT) based authentication, improved the separation between front end and back end, and refined the structure of routes, services, and views. This work shows that I can use the software development life cycle, think about maintainable design, and use industry standard tools such as Node, Express, and Angular in a professional way.
+### **Software Engineering – Travlr Getaways (CS 465)**  
+For the software engineering and design category, I enhanced my Travlr Getaways full-stack web application. Improvements included:
 
-The database outcome is represented by my **Android Weight Tracking App** from CS 360, which is covered in the [CS360 artifact page](../CS360). For the capstone, I extended it far beyond a simple local SQLite project. I implemented AES encryption for sensitive weight entries, hash-based storage for passwords, a more structured database layer, and an export-to-CSV feature. I also added a visual progress chart that reads encrypted data from the database and presents it in a clear graph.
+- JSON Web Token (JWT) authentication  
+- Refactored architecture, separating routes, controllers, and services  
+- Better user experience and consistent UI patterns  
+- Enhanced maintainability and security  
+- Cleaner API structure  
 
-Together, these artifacts show that I can design applications end-to-end, from the user interface through the service layer and down into secure data storage. They also show that I understand how to prepare database code for future cloud integration.
+This project demonstrates my ability to plan, design, and implement full-stack solutions using modern tools such as Node.js, Express, Angular, and MongoDB.
+
+### **Databases – Android Weight Tracking App (CS 360)**  
+For the databases category, I enhanced my Android Weight Tracking App by:
+
+- Implementing **AES encryption** for sensitive weight entries  
+- Applying **SHA-256 hashing** for account passwords  
+- Redesigning the SQLite schema for clarity and future scalability  
+- Adding CSV export functionality  
+- Integrating a graphical progress chart for improved user experience  
+
+These enhancements show that I can design secure, efficient, and user-centered data systems while applying industry-aligned practices.
 
 ---
 
 ## Security Mindset
 
-Security is the thread that connects almost everything I want to do in my career. The capstone gave me room to show a true security mindset across all three artifacts.
+Security is a defining theme in my career goals. Across all artifacts, I demonstrated a security-first approach:
 
-In **Travlr Getaways**, I added secure authentication, protected routes, and improved error handling. I thought about input validation, token storage, and how to prevent unauthorized access. I treated security as part of the design, not just an afterthought.
+- **Travlr Getaways:** Secure authentication, protected routes, input validation, token handling  
+- **Weight Tracking App:** AES encryption, password hashing, safe queries, secure local storage  
+- **AI Project:** Understanding of stable decision-making systems, relevant to automation and cyber defense  
 
-In my **Weight Tracking App**, I treated user health data as sensitive information that requires strong protection. I used AES encryption for stored values and SHA-256 hashing for passwords. I structured the database access in a way that supports safe queries and reduces the chance of unsafe string building. I also considered future threats if the app connects to a cloud platform, and I prepared the architecture for that next step.
-
-Even the **Deep Q-Learning project**, which is mostly about algorithms, supports the security outcome in a softer way. It shows that I can understand complex systems that make decisions over time and reason about their correctness and stability. This way of thinking is important for security automation, intrusion detection, and other intelligent systems in the cyber domain.
+My Navy background reinforces this mindset, as I work with sensitive medical and radiation health information that requires absolute integrity and confidentiality. I apply the same seriousness to software security.
 
 ---
 
 ## How the Artifacts Fit Together
 
-My three main artifacts form a complete picture of my abilities as a computer science professional:
+These three artifacts form a complete picture of my skills:
 
-- **Travlr Getaways Full-Stack Web Application** → Software engineering and design ([CS465](../CS465))
-- **Deep Q-Learning Treasure Hunt** → Algorithms and data structures ([CS370](../CS370))
-- **Android Weight Tracking App** → Databases, encryption, and secure mobile storage ([CS360](../CS360))
+| Artifact | Category | Demonstrated Skills |
+|---------|----------|--------------------|
+| **Travlr Getaways** | Software Engineering & Design | Full-stack architecture, authentication, UI/UX, maintainable code |
+| **Deep Q-Learning Treasure Hunt** | Algorithms & Data Structures | Reinforcement learning, queues, optimization, algorithm analysis |
+| **Weight Tracking App** | Databases & Security | Encryption, hashing, structured data storage, secure mobile design |
 
-Together, they cover all of the CS 499 course outcomes. I have:
+Together, they demonstrate that I:
 
-- Employed collaborative and review strategies through my code review, feedback cycles, and professional communication.
-- Designed, developed, and documented professional-quality written and visual material through my narratives, journals, and video.
-- Designed and evaluated computing solutions using algorithmic principles in my Deep Q-Learning project.
-- Used innovative techniques and tools in software engineering and database work in my web and mobile artifacts.
-- Practiced a strong security mindset in both architecture and implementation, especially in authentication and encrypted data storage.
-
-These artifacts also connect to my identity as a Navy Hospital Corpsman. They show that I am comfortable working with important data, that I understand the need for secure systems, and that I can build tools that support real people and real missions.
+- Can collaborate and respond to feedback  
+- Communicate technical information professionally  
+- Apply algorithmic thinking to real problems  
+- Use modern development tools and architectures  
+- Build systems with security as a core requirement  
 
 ---
 
 ## Conclusion
 
-My journey through the Computer Science program and the CS 499 capstone has helped me grow from a student who just wanted to work in security into a more complete computer science professional. I can now see how software engineering, algorithms, databases, and security all depend on each other. The process of enhancing my artifacts, creating my ePortfolio, and writing this self-assessment gave me a clearer picture of my strengths and the kind of work I want to do.
+My CS 499 capstone and ePortfolio represent the culmination of my academic journey at Southern New Hampshire University. I grew from someone interested in cybersecurity into a more complete computer science professional who understands how secure software design, algorithms, databases, and communication all work together.
 
-As I move forward, I plan to use my ePortfolio to support applications for roles in secure software development, information security, or related positions. I also plan to pursue certifications such as CompTIA Security+ or similar credentials to strengthen my profile further. Most of all, I will continue practicing secure design, clear communication, and continuous improvement, just as I have throughout this program and in my service in the Navy.
+As I move forward, I will use my ePortfolio to pursue positions in secure software development, information security, or related fields. I also plan to strengthen my professional credentials by pursuing certifications such as CompTIA Security+. Most importantly, I will continue applying the habits of secure design, clear communication, and lifelong learning that I developed throughout this program and in my Navy career.
 
 ---
 
