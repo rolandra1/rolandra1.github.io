@@ -1,6 +1,6 @@
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:youremail@example.com "You can reach me!")&nbsp;&nbsp;<a id="top" href="https://rolandra1.github.io" title="My ePortfolio site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rolandra1.github.io-purple.svg?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/rolandra1/rolandra1.github.io?style=for-the-badge&logo=github "ePortfolio Last Update")
+[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:rolandrichardamos@gmail.com "You can reach me!")&nbsp;&nbsp;<a id="top" href="https://rolandra1.github.io" title="My ePortfolio site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rolandra1.github.io-purple.svg?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/rolandra1/rolandra1.github.io?style=for-the-badge&logo=github "ePortfolio Last Update")
 
-## Welcome Address!
+## Welcome!
 
 My ePortfolio presents my journey through the Computer Science program at Southern New Hampshire University and how it connects to my current work as a United States Navy Hospital Corpsman. It shows how I grew from a learner who was curious about information security into a computer science professional who can build secure, reliable, and user friendly software.  
 
