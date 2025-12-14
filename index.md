@@ -9,9 +9,9 @@ title: "CS 499 ePortfolio – Amos Roland"
 
 ## Welcome
 
-My CS 499 ePortfolio represents my journey through the Computer Science program at Southern New Hampshire University and my growth as a developing computer science professional. It brings together my strongest work in software engineering and design, algorithms and data structures, and databases, along with my mindset as an information security focused student and active duty United States Navy Hospital Corpsman.
+My CS 499 ePortfolio represents my journey through the Computer Science program at Southern New Hampshire University and my growth as a developing computer science professional. It brings together my strongest work in software engineering and design, algorithms and data structures, and databases, along with my mindset as an information security-focused student and active duty United States Navy Hospital Corpsman.
 
-Throughout the program I learned to design, build, test, and secure real applications. This site organizes my capstone enhancements and shows how I now think like a professional who must balance technical quality, security, user experience, and teamwork. The artifacts on each page connect directly to the CS 499 outcomes and are ready to share with both academic evaluators and future employers.
+Throughout the program, I learned to design, build, test, and secure real applications. This site organizes my capstone enhancements and shows how I now think like a professional who must balance technical quality, security, user experience, and teamwork. The artifacts on each page connect directly to the CS 499 outcomes and are ready to share with both academic evaluators and future employers.
 
 ---
 
@@ -32,7 +32,7 @@ Throughout the program I learned to design, build, test, and secure real applica
 
 ---
 
-<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self Assessment" title="Professional Self Assessment" />
+<img id="self-assessment" src="assets/img/self_assessment.png" alt="Professional Self Assessment" title="Professional Self Assessment" />
 
 ## Professional Self Assessment
 
