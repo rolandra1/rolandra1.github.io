@@ -1,259 +1,214 @@
 ---
 layout: default
-title: Professional Self-Assessment
+title: "CS 499 ePortfolio – Amos Roland"
 ---
 
-# Professional Self-Assessment  
+[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-email-brightgreen.svg?style=for-the-badge&logo=gmail)](mailto:rolandrichardamos@gmail.com "Contact me")&nbsp;
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue.svg?style=for-the-badge&logo=github)](https://rolandra1.github.io/ "ROLANDRA1.US")&nbsp;
+![GitHub Last Commit](https://img.shields.io/github/last-commit/rolandra1/rolandra1.github.io?style=for-the-badge&logo=github "Last update")
 
-**Amos Roland**  
-Southern New Hampshire University  
-CS 499 Computer Science Capstone  
-Professor Akhil Gudivada  
-December 2025  
+## Welcome
 
----
+My CS 499 ePortfolio represents my journey through the Computer Science program at Southern New Hampshire University and my growth as a developing computer science professional. It brings together my strongest work in software engineering and design, algorithms and data structures, and databases, along with my mindset as an information security focused student and active duty United States Navy Hospital Corpsman.
 
-## Welcome and Overview
-
-My ePortfolio represents the final stage of my Computer Science program at Southern New Hampshire University and serves as my formal introduction to the field as a professional. It brings together my major enhanced artifacts, my reflections, and my growth as a student and as a United States Navy Hospital Corpsman.
-
-When I started this program, I mainly saw myself as a future information security specialist. Over time, through projects in web development, artificial intelligence, and mobile applications, I grew into a more complete software professional with strengths in secure software engineering, algorithms and data structures, and database design. This self-assessment explains how my coursework and ePortfolio helped me develop these strengths, how I work with others, how I communicate with different stakeholders, and how my artifacts fit together to show that I have met the Computer Science program outcomes.
+Throughout the program I learned to design, build, test, and secure real applications. This site organizes my capstone enhancements and shows how I now think like a professional who must balance technical quality, security, user experience, and teamwork. The artifacts on each page connect directly to the CS 499 outcomes and are ready to share with both academic evaluators and future employers.
 
 ---
 
-## Table of Contents
+### <u>Table of Contents</u>
 
-* [Academic and Professional Background](#academic-and-professional-background)  
-* [Growth Through Coursework and the Capstone](#growth-through-coursework-and-the-capstone)  
-* [Collaboration and Team Environments](#collaboration-and-team-environments)  
-* [Communication With Stakeholders](#communication-with-stakeholders)  
-* [Data Structures and Algorithms](#data-structures-and-algorithms)  
-* [Software Engineering and Databases](#software-engineering-and-databases)  
-* [Security Mindset](#security-mindset)  
-* [How the Artifacts Fit Together](#how-the-artifacts-fit-together)  
-* [Program Outcomes Mapping](#program-outcomes-mapping)  
-* [Future Career Preparation](#future-career-preparation)  
-* [Conclusion](#conclusion)  
-* [References](#references)  
-
----
-
-## Academic and Professional Background
-
-I completed my Computer Science coursework while serving on active duty as a United States Navy Hospital Corpsman, working in radiation health and medical readiness. In my Navy role I handle sensitive medical and radiation health data, coordinate inspections, and support the readiness of sailors and ships. This environment demands accuracy, attention to detail, and a strong sense of responsibility.
-
-The Computer Science program added a new dimension to my professional identity. Courses such as CS 260 Data Structures and Algorithms, CS 320 Software Testing, CS 340 Advanced Programming Concepts, CS 360 Mobile Architecture and Programming, CS 370 Artificial Intelligence, CS 405 Secure Coding, and CS 465 Full Stack Development I gave me a structured path from basic programming to advanced software solutions. My journals and milestone reflections across modules helped me connect what I was learning in class to the standards and discipline I already used in the Navy.
-
-The capstone brought all of this together. It required me to select past projects, perform a code review, design enhancements, and publish everything in a professional ePortfolio that someone outside the classroom can actually use to understand my skills.
+&nbsp;[Professional Self Assessment](#self-assessment "Professional Self Assessment")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Overview_](#portfolio-overview "Portfolio Overview")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Preparing for My Future Career_](#preparing-for-my-future-career "Preparing for My Future Career")  
+&nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Video Link_](#code-review-video-link "Code Review Video Link")  
+&nbsp;[Software Engineering and Design](#softwaredesign "Software Engineering and Design")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Travlr Getaways Full Stack Web Application_](#travlr-getaways "Travlr Getaways Full Stack Web Application")  
+&nbsp;[Algorithms and Data Structures](#algorithms "Algorithms and Data Structures")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Deep Q Learning Treasure Hunt_](#deep-q-learning "Deep Q Learning Treasure Hunt")  
+&nbsp;[Databases](#databases "Databases")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Android Weight Tracking App_](#weight-tracking-app "Android Weight Tracking App")  
+&nbsp;[Reviews](#reviews "Reviews")
 
 ---
 
-## Growth Through Coursework and the Capstone
+<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self Assessment" title="Professional Self Assessment" />
 
-Throughout the program I moved from writing small single purpose programs to building complete systems with multiple layers. I learned how to design and evaluate computing solutions, work with databases, test my code, and think about security from the beginning of a project instead of treating it as an add on.
+## Professional Self Assessment
 
-For the capstone I returned to three major artifacts and enhanced them:
+My Professional Self Assessment explains how my coursework, my capstone enhancements, and my Navy experience work together to shape me as a computer science professional with a strong security mindset. It also describes how my three main artifacts meet all CS 499 outcomes and how they connect to my long term goals in secure software development and information security.
 
-* **Travlr Getaways Full Stack Web Application** from CS 465  
-  Represents the software engineering and design category.  
-  [Link to CS465 artifact page](../CS465)
+[Read the full Professional Self Assessment](Professional_Self_Assessment "Professional Self Assessment")
 
-* **Deep Q Learning Treasure Hunt project** from CS 370  
-  Represents the algorithms and data structures category.  
-  [Link to CS370 artifact page](../CS370)
+### Portfolio Overview {#portfolio-overview}
 
-* **Android Weight Tracking App** from CS 360  
-  Represents the databases and secure data handling category.  
-  [Link to CS360 artifact page](../CS360)
+Across the Computer Science program I completed courses such as CS 260, CS 320, CS 340, CS 360, CS 370, CS 405, CS 465, and database focused work. For the capstone I selected three artifacts to enhance and feature:
 
-From my earlier journals and milestone submissions, I used my instructor feedback to refine these artifacts so they match program outcomes and look like something I could show to a hiring manager.
+- **CS 465 Travlr Getaways Full Stack Web Application**  
+- **CS 370 Deep Q Learning Treasure Hunt**  
+- **CS 360 Android Weight Tracking App**
 
-**Screenshot placeholder:**  
-[INSERT SCREENSHOT: ePortfolio home page showing navigation to CS360, CS370, and CS465 sections]
+Each artifact has its own page with a detailed narrative, screenshots, and explanation of which outcomes it satisfies:
 
----
+- [CS 465 Artifact Page – Travlr Getaways](CS465)  
+- [CS 370 Artifact Page – Deep Q Learning Treasure Hunt](CS370)  
+- [CS 360 Artifact Page – Weight Tracking App](CS360)  
 
-## Collaboration and Team Environments
+Together these projects show that I can design secure systems end to end, apply algorithmic thinking, and manage data safely in mobile and web environments.
 
-Even though the capstone is an individual project, my experience in this program and in the Navy has been built around collaboration.
+### Preparing for My Future Career {#preparing-for-my-future-career}
 
-In my courses I worked with classmates through discussion boards, peer responses, and group oriented problem solving. These experiences taught me how to:
+My long term goal is to move into roles that combine secure software development and information security. I plan to use this ePortfolio when I apply for positions that involve secure web development, mobile applications with protected data, or security focused engineering roles. I also plan to pursue certifications such as CompTIA Security plus to complement this degree.
 
-* Explain why I chose a specific design or algorithm.  
-* Accept feedback without taking it personally.  
-* Adjust my code and documentation based on suggestions from others.  
+This ePortfolio gives employers a single place where they can see my code, my technical explanations, and my ability to communicate clearly with different audiences.
 
-In my Navy duties I work with medical officers, department heads, and junior sailors to maintain radiation health programs and medical readiness. We coordinate inspections, audits, and drills. I often have to translate policy into clear action steps and track completion. That same pattern shows up in software projects through code reviews, sprint planning, and issue tracking.
-
-During the capstone, I treated my instructor as my primary project stakeholder. Each milestone submission felt like a review meeting where I presented my current work, received comments, and then applied that feedback to improve structure, security, and clarity in my code and narratives. This mirrors real development cycles in collaborative environments.
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ---
 
-## Communication With Stakeholders
+<img id="codereview" src="assets/img/codereview.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
-The capstone required several forms of communication that reflect real project life.
+## Refinement Plan and Code Review {#codereview}
 
-* **Code review video:** I created a walkthrough of my original artifacts, explained what they did, pointed out weaknesses, and described my enhancement plan. I had to speak slowly, avoid unnecessary jargon, and keep the focus on why my changes mattered.  
-* **Milestone narratives and journals:** For each artifact I wrote about what the project is, what I changed, what I learned, and how the enhancements align with the five program outcomes.  
-* **This professional self assessment:** This document functions as an introduction to me and my work for an audience that includes instructors, recruiters, and future managers.
+For CS 499 I completed a formal code review that covered all three artifacts. In that review I walked through the original code, identified weaknesses, and explained my enhancement plan for:
 
-Across all of these, I practiced adapting my message to the audience. For example, when describing my Deep Q Learning work, I used technical terms like exploration rate and replay memory, but I explained them in simple language so someone with limited AI knowledge could still follow the logic.
+- The **Travlr Getaways** full stack site  
+- The **Deep Q Learning Treasure Hunt** project  
+- The **Android Weight Tracking App**
 
-**Screenshot placeholder:**  
-[INSERT SCREENSHOT: still image from code review video page or thumbnail in your ePortfolio]
+The review focused on quality, maintainability, security, and user experience. It also showed that I can use professional communication skills to describe complex code to a technical or semi technical audience.
 
----
+> **Screenshot placeholder**  
+> `assets/img/CodeReview_Overview.png`  
+> _Figure 1 – Code review overview screenshot_
 
-## Data Structures and Algorithms
+### Code Review Video Link {#code-review-video-link}
 
-The algorithms and data structures category in my ePortfolio is represented by my **Deep Q Learning Treasure Hunt** project from CS 370.
+If you would like to watch the full code review video and see my enhancement plan in action, use the link below:
 
-In this project a reinforcement learning agent explores an eight by eight maze in search of a treasure. To enhance this artifact for the capstone, I:
+<div style="text-align: center;">
+    <a href="CodeReview" title="Refinement Plan and Code Review">
+        <img src="https://img.shields.io/badge/Artifacts-Refinement_Plan_and_Code_Review-blue.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
+    </a>
+</div>
 
-* Refined the **epsilon greedy strategy** so that exploration and exploitation are better balanced.  
-* Used a **replay buffer** with queue like behavior to store past experiences and sample mini batches during training.  
-* Analyzed the **time complexity** of the training loop, including the cost of predicting Q values and updating weights.  
-* Documented how parameter choices, such as learning rate and discount factor, affect stability and performance.  
-
-These enhancements show my ability to design algorithmic solutions, understand data structures that support them, and explain the trade offs involved. It is not just that the model trains and wins more often. I can describe why the changes work and how they align with reinforcement learning theory.
-
-**Screenshot placeholders:**  
-[INSERT SCREENSHOT: Jupyter Notebook cell showing qtrain function and comments]  
-[INSERT SCREENSHOT: Maze grid or training performance chart if available]
-
----
-
-## Software Engineering and Databases
-
-### Software Engineering – Travlr Getaways (CS 465)
-
-For the software engineering and design category, I enhanced my **Travlr Getaways Full Stack Web Application**, which began in CS 465.
-
-In the capstone version, I:
-
-* Improved the project structure to separate routes, controllers, views, and models more clearly.  
-* Integrated **JSON Web Token (JWT) authentication** so that protected resources are not accessible without proper login.  
-* Cleaned up the **user interface** so it follows more consistent layout and navigation patterns.  
-* Thought carefully about error handling and the messages users see when something fails.  
-
-These changes show that I can work with a real web application that uses Node, Express, and templating or front end components. I understand how to improve code that already exists instead of always starting over. This is an important skill in the software industry.
-
-**Screenshot placeholders:**  
-[INSERT SCREENSHOT: Travlr Getaways login page after enhancement]  
-[INSERT SCREENSHOT: Travlr Getaways trips listing or admin view]
-
-### Databases – Android Weight Tracking App (CS 360)
-
-For the databases category, I enhanced my **Android Weight Tracking App**.
-
-In the enhanced version, I:
-
-* Used **SQLite** with a more structured schema that clearly separates users, goals, and weight entries.  
-* Implemented **AES encryption** for sensitive stored data so that someone who accesses the device storage cannot easily read raw values.  
-* Stored passwords using **hashing** rather than plain text to better protect user accounts.  
-* Added **CSV export** and a **visual progress chart** to turn raw data into useful information for the user.  
-
-These enhancements align directly with database outcome expectations and show that I can design data storage that is both practical and security aware on a mobile platform.
-
-**Screenshot placeholders:**  
-[INSERT SCREENSHOT: Android app login or registration screen]  
-[INSERT SCREENSHOT: Weight history chart or table view]  
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #6cb9c8; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #6cb9c8; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ---
 
-## Security Mindset
+<img id="softwaredesign" src="assets/img/softwareengineering.png" alt="Software Engineering and Design" title="Software Engineering and Design" />
 
-Security is the theme that connects all of my artifacts and my professional background.
+## Software Engineering and Design {#softwaredesign}
 
-* In **Travlr Getaways**, I treated authentication and authorization as core parts of the design, not add ons. I considered input validation, token handling, and what happens if an unauthorized user tries to reach a protected route.  
-* In the **Weight Tracking App**, I treated weight history as health related data that deserves strong protection. Encryption, hashing, and careful database access help address that.  
-* In my **AI work**, I practiced disciplined thinking about stability and correctness. While this is not direct security work, the same mindset is needed when you build systems that may one day make automated decisions in a security context.
+### Travlr Getaways Full Stack Web Application {#travlr-getaways}
 
-My Navy work built this mindset before I ever wrote code. Working with radiation health exams, dosimetry, and medical records taught me that data is never just numbers. It belongs to real people. That sense of responsibility now shows up in how I design and review software systems.
+My software engineering and design artifact is the **Travlr Getaways** full stack travel site from CS 465. In the capstone I enhanced this project by improving the architecture, adding secure authentication, and separating responsibilities between the client and server more cleanly.
 
----
+Key ideas include:
 
-## How the Artifacts Fit Together
+- Node and Express for the server with clear route structure  
+- An Angular front end prepared for single page application behavior  
+- JSON Web Token authentication and protected routes  
+- Better error handling and input validation  
+- A design that is easier to maintain and extend
 
-My three capstone artifacts form one consistent story about who I am as a computer science professional.
+These changes show that I can follow a software development life cycle, think about architecture, and implement real features that match user and business needs.
 
-* **Travlr Getaways Full Stack Web Application**  
-  Shows that I can design and improve software architecture, manage routing and views, and integrate secure authentication.  
+[View the Software Engineering and Design artifact page](CS465 "CS 465 Travlr Getaways Artifact")
 
-* **Deep Q Learning Treasure Hunt**  
-  Shows that I understand data structures, algorithms, and reinforcement learning. I can reason about performance, convergence, and parameter trade offs.  
+> **Screenshot placeholders**  
+> `assets/img/CS465-Login.png`  
+> `assets/img/CS465-Home.png`  
+> _Figure 2 – Travlr Getaways login and home page_
 
-* **Android Weight Tracking App**  
-  Shows that I can design a secure, database driven mobile application with encryption, hashing, and clear user feedback.
-
-Together these artifacts show that I:
-
-* Work across different platforms, including web and mobile.  
-* Understand both traditional algorithms and machine learning techniques.  
-* Treat data security and privacy as design requirements.  
-* Can explain my work in a way that others can understand, through both code and narrative.
-
-**Screenshot placeholder:**  
-[INSERT SCREENSHOT: collage style image of the three artifact UIs or a simple image row]
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #008000; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #008000; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ---
 
-## Program Outcomes Mapping
+<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structures" title="Algorithms and Data Structures" />
 
-The CS 499 capstone is built around five program outcomes. My coursework, artifacts, and this ePortfolio provide evidence for each one.
+## Algorithms and Data Structures {#algorithms}
 
-1. **Collaborative environments and organizational decision making**  
-   * Responding to instructor feedback on milestones.  
-   * Writing in code comments so that another developer can understand and modify my work.  
-   * Using my Navy experience with checklists, reports, and team coordination as a model for how to work inside a software team.
+### Deep Q Learning Treasure Hunt {#deep-q-learning}
 
-2. **Professional quality oral, written, and visual communication**  
-   * Code review video that explains how my code works and why enhancements matter.  
-   * Structured narratives for each artifact using clear language and correct technical terms.  
-   * This self assessment as a formal introduction to my skills for both academic reviewers and future employers.
+My algorithms and data structures artifact is the **Deep Q Learning Treasure Hunt** project from CS 370. In this project an agent plays the role of a pirate in an eight by eight maze and learns to reach the treasure using reinforcement learning with a neural network.
 
-3. **Design and evaluate computing solutions using algorithmic principles**  
-   * Deep Q Learning Treasure Hunt training loop, exploration strategy, and replay buffer.  
-   * Analysis of time complexity and performance trade offs in my AI work and in database queries.  
+In my enhancement work I:
 
-4. **Use well founded and innovative techniques, skills, and tools**  
-   * Use of Node, Express, and related tools in Travlr Getaways.  
-   * Use of Android Studio, SQLite, and encryption techniques in the Weight Tracking App.  
-   * Use of neural networks and reinforcement learning tools in my AI artifact.
+- Refined the `qtrain` function and training loop  
+- Used an epsilon greedy policy with adjustable exploration rate  
+- Implemented an experience replay buffer that acts like a bounded queue  
+- Analyzed the approximate time complexity for training and mini batch updates  
+- Logged metrics such as win rate and loss to evaluate performance
 
-5. **Develop a security mindset**  
-   * Authentication and authorization enhancements in Travlr Getaways.  
-   * Secure storage of sensitive information in the Weight Tracking App.  
-   * Consistent attention to threats, data privacy, and safe coding habits across all projects.
+This artifact shows that I can use algorithmic principles to build and evaluate computing solutions, not only at the level of individual functions but also at the level of a learning system that makes decisions over many steps.
 
-By reviewing my artifacts and reading this assessment, a reviewer can see how each outcome is supported by concrete work, not just by general statements.
+[View the Algorithms and Data Structures artifact page](CS370 "CS 370 Deep Q Learning Artifact")
 
----
+> **Screenshot placeholders**  
+> `assets/img/CS370-qtrain.png`  
+> `assets/img/CS370-Maze.png`  
+> _Figure 3 – qtrain function and maze view_
 
-## Future Career Preparation
-
-Completing this program and building my ePortfolio helped me define my next steps. I want to move into roles that focus on secure software development or information security, especially in environments that handle sensitive or mission critical data. My experience as a Hospital Corpsman, combined with my Computer Science degree, gives me a unique perspective on risk, reliability, and human impact.
-
-I plan to:
-
-* Use this ePortfolio when applying for positions in secure software engineering or junior information security roles.  
-* Pursue certifications such as CompTIA Security plus to strengthen my security foundation.  
-* Continue improving my projects, adding tests, refining documentation, and exploring cloud deployment options as time allows.
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ---
 
-## Conclusion
+<img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
 
-My CS 499 ePortfolio and this Professional Self-Assessment represent the culmination of my Computer Science program at Southern New Hampshire University. They show that I can design, build, secure, and explain computing solutions in a way that is clear and professional.
+## Databases {#databases}
 
-I am leaving this program not just with a degree but with artifacts, reflections, and habits that I can carry into my next role. I am ready to contribute as a software professional with a strong security mindset, a respect for collaboration, and a commitment to continuous improvement.
+### Android Weight Tracking App {#weight-tracking-app}
+
+My databases artifact is the **Android Weight Tracking App** from CS 360. The original app used a simple SQLite structure. For the capstone I enhanced it to behave more like a secure, real world health application.
+
+Enhancements include:
+
+- A more structured SQLite schema with clear tables and relationships  
+- AES encryption for sensitive weight entries stored on the device  
+- Secure password handling with hashing rather than plain text storage  
+- An export to CSV feature so users can back up or share their data  
+- A progress chart that reads from the encrypted data and shows trends visually
+
+This project demonstrates that I can design and implement secure data storage for a mobile app and that I understand how database decisions affect user experience, security, and future cloud integration.
+
+[View the Databases artifact page](CS360 "CS 360 Weight Tracking App Artifact")
+
+> **Screenshot placeholders**  
+> `assets/img/CS360-Login.png`  
+> `assets/img/CS360-Chart.png`  
+> _Figure 4 – Weight Tracking login screen and progress chart_
+
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #40E0D0; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #40E0D0; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ---
 
-## References
+## Reviews {#reviews}
 
-Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson.  
+> _Add selected feedback from professors, supervisors, or peers here. For example, you can quote brief comments from CS 499 milestone feedback or earlier courses that highlight your strengths in security, software engineering, teamwork, or communication._
 
-Sutton, R. S., & Barto, A. G. (2018). *Reinforcement learning: An introduction* (2nd ed.). MIT Press.  
-
-Stallings, W. (2018). *Effective cybersecurity: A guide to using best practices and standards*. Addison Wesley.  
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
