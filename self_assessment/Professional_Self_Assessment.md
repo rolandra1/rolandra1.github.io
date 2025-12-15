@@ -4,12 +4,6 @@ layout: default
 
 # Professional Self-Assessment
 
-Amos Roland  
-Southern New Hampshire University  
-CS 499 Computer Science Capstone  
-Professor Akhil Gudivada  
-December 2025  
-
 ---
 
 ## Introduction
