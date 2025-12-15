@@ -112,8 +112,8 @@ I outline the improvements I later implemented in the three enhancement mileston
 ### Artifact  
 
 **Travlr Getaways Full Stack Web Application (CS 465)**  
-[Original Code](original/CS465)  
-[Enhanced Code](enhancement/CS465)  
+[Original Code](original_artifacts/CS465/CS465-Travlr_Getaways-Original.zip)  
+[Enhanced Code](enhanced_artifacts/CS465/CS465-Travlr_Getaways-Enhanced.zip)  
 
 ### Narrative  
 
