@@ -38,7 +38,7 @@ Throughout the program, I gained practical experience in programming, system des
 
 I began my Computer Science journey at Southern New Hampshire University in 2023 by entering directly into the bachelor’s program with a concentration in Information Security. I chose not to take the slower path because I already knew where I wanted to go. I wanted to secure systems, understand risks, and contribute to technologies that protect people and data. My eagerness, aspirations, and deep motivation to grow pushed me to commit fully from the start.
 
-While studying, I continued serving in the United States Navy as a Hospital Corpsman and Radiation Health Technician. In this role, accuracy, confidentiality, and accountability are not optional—they are mission-critical. Handling sensitive medical and radiation health information gave me a natural foundation in security and reinforced my desire to specialize in Information Security within computer science.
+While studying, I continued serving in the United States Navy as a Hospital Corpsman and Radiation Health Technician. In this role, accuracy, confidentiality, and accountability are not optional; they are mission-critical. Handling sensitive medical and radiation health information gave me a natural foundation in security and reinforced my desire to specialize in Information Security within computer science.
 
 The program helped me transform these instincts into technical expertise. I learned step-by-step problem solving, secure design, data structures, algorithms, and full-stack development. My concentration strengthened my understanding of encryption, authentication, network security, and real-world vulnerabilities.  
 
