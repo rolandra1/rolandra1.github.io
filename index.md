@@ -185,7 +185,7 @@ During enhancement, I:
     <p><em>Figure 4 – Backend Routes and Trip List Interface</em></p>
 </div>
 
-These enhancements show that I can design and evaluate computing solutions using sound software engineering practices. I considered trade offs such as complexity versus clarity and performance versus readability. I also used comments and logging to make the system easier to understand and maintain.
+These enhancements show that I can design and evaluate computing solutions using sound software engineering practices. I considered trade-offs such as complexity versus clarity and performance versus readability. I also used comments and logging to make the system easier to understand and maintain.
 
 By focusing on separation of concerns and consistent patterns, I turned the project into a better example of a full stack architecture that can grow over time. This work directly supports my goal to build secure, maintainable web applications in my career.
 
@@ -254,8 +254,8 @@ In the original version, data was stored in a simple SQLite structure. During en
 - Introduced stronger handling for user credentials and other sensitive information, preparing the application for future encryption and cloud integration
 
 <div style="text-align: center;">
-    <img src="assets/img/cs360-main-menu-enhanced.png.jpg" width="200px" title="Weight Tracker Logged in Page Screenshot" />
-    <img src="assets/img/cs360-weight-chart.png.jpg" width="200px" title="Weight Entries Table Screenshot" />
+    <img src="assets/img/cs360-main-menu-enhanced.png.jpg" width="300px" title="Weight Tracker Logged in Page Screenshot" />
+    <img src="assets/img/cs360-weight-chart.png.jpg" width="300px" title="Weight Entries Table Screenshot" />
     <p><em>Figure 6 – Weight Tracker Login and Data Display Screens</em></p>
 </div>
 
