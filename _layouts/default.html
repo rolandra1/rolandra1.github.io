@@ -1,16 +1,43 @@
 <body>
   <header class="site-header">
     <nav class="top-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/self_assessment' | relative_url }}">Professional Self-Assessment</a>
-      <a href="{{ '/CodeReview' | relative_url }}">Code Review</a>
-      <a href="{{ '/CS465' | relative_url }}">Software Engineering</a>
-      <a href="{{ '/CS370' | relative_url }}">Algorithms & Data Structures</a>
-      <a href="{{ '/CS360' | relative_url }}">Databases</a>
+      <div class="nav-left">
+        <a href="{{ '/' | relative_url }}" class="brand-link">
+          <span class="brand-title">My CS 499 ePortfolio</span>
+        </a>
+      </div>
+
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        ☰
+      </button>
+
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/self_assessment/Professional_Self_Assessment.html' | relative_url }}">
+          Professional Self-Assessment
+        </a>
+        <a href="{{ '/CodeReview' | relative_url }}">Code Review</a>
+        <a href="{{ '/CS465' | relative_url }}">Software Engineering</a>
+        <a href="{{ '/CS370' | relative_url }}">Algorithms &amp; Data Structures</a>
+        <a href="{{ '/CS360' | relative_url }}">Databases</a>
+      </div>
     </nav>
   </header>
 
   <main class="page-content">
     {{ content }}
   </main>
+
+  <script>
+    // Simple mobile toggle behavior
+    document.addEventListener("DOMContentLoaded", function () {
+      const toggle = document.querySelector(".nav-toggle");
+      const links = document.querySelector(".nav-links");
+      if (!toggle || !links) return;
+
+      toggle.addEventListener("click", function () {
+        links.classList.toggle("nav-open");
+      });
+    });
+  </script>
 </body>
