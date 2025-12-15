@@ -204,3 +204,51 @@ button.back-to-top {
     border-style: solid;
     cursor: pointer;
 }
+
+/* Brand title above navigation links */
+.brand-wrapper {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.6rem; /* ← spacing between title and links */
+}
+
+.brand-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #e5e7eb;
+}
+
+/* Navigation bar container */
+.site-header {
+    background: #111827;
+    border-bottom: 1px solid #1f2937;
+    padding-top: 0.4rem;
+    padding-bottom: 0.6rem;
+}
+
+/* Navigation links row */
+.nav-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.7rem 1.2rem; /* spacing between menu items */
+}
+
+/* Standard link styling */
+.nav-links a {
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: #e5e7eb;
+    padding: 0.3rem 0.9rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+}
+
+.nav-links a:hover {
+    background: #1f2937;
+    border-color: #6366f1;
+    text-decoration: none;
+}
+
+
