@@ -132,7 +132,7 @@ My ePortfolio is not just a collection of projects. It is a record of growth—s
 </div>
 
 ---
-# Refinement Plan & Code Review {#codereview}
+# Refinement Plan & [Code Review](#codereview) {#codereview}
 
 <img src="assets/img/codereview.png" width="100%" alt="Refinement Plan and Code Review">
 
