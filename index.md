@@ -94,7 +94,7 @@ Courses in security, system analysis, databases, and networking supported these 
 - Networking and operating systems topics helped me think about performance and communication between components.
 
 <div style="text-align: center;">
-    <img src="assets/img/cs465-trip-list-logged-in.png" width="100%" title="Travel Website Screenshot" />
+    <img src="assets/img/cs465-trip-list-logged-out.png" width="100%" title="Travel Website Screenshot" />
     <p><em>Figure 2 – Travel Booking Website – CS 465 Full Stack Development I</em></p>
 </div>
 
@@ -142,7 +142,7 @@ In my refinement plan, I focused on several themes:
 Through this process, I learned to look at my own code as if I were joining a new team and reviewing an existing system. This mindset will help me contribute to real projects where code already exists and needs to be improved instead of rebuilt from the ground up.
 
 <div style="text-align: center;">
-    <img src="assets/img/CSV EXP_BKU.png" width="720px" title="Enhanced Code Screenshot" />
+    <img src="assets/img/cs360-password-hash.png.jpg" width="720px" title="Enhanced Code Screenshot" />
     <p><em>Figure 3 – Enhanced Code Example from an Artifact</em></p>
 </div>
 
@@ -165,7 +165,7 @@ Through this process, I learned to look at my own code as if I were joining a ne
 
 <br/>
 
-<img id="softwaredesign" src="assets/img/softwareengineering.png" alt="Software Engineering and Design" title="Software Engineering and Design" />
+<img id="softwaredesign" src="assets/img/softwareengineeringanddesign.png" alt="Software Engineering and Design" title="Software Engineering and Design" />
 
 Through the [Refinement Plan and Code Review](https://rolandra1.github.io/CodeReview "Artifact Code Review"), the artifact selected for the Software Engineering and Design category is my **Travlr Getaways full stack travel website**, originally created in CS 465 Full Stack Development I. The application uses the MEAN stack (MongoDB, Express, Angular, Node.js) to let users browse trips, view details, and interact with travel data.
 
@@ -180,8 +180,8 @@ During enhancement, I:
 - Updated documentation and comments so that another developer could follow the flow from client to server to database
 
 <div style="text-align: center;">
-    <img src="assets/img/CS465-WebsiteRoutes.png" width="300px" title="Back End Routes Screenshot" />&nbsp;&nbsp;&nbsp;
-    <img src="assets/img/CS465-TripList.png" width="300px" title="Trip Listing Interface Screenshot" />
+    <img src="assets/img/cs465-terminal-api-start.png" width="300px" title="Back End Routes Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="assets/img/cs465-trip-list-logged-in.png" width="300px" title="Trip Listing Interface Screenshot" />
     <p><em>Figure 4 – Backend Routes and Trip List Interface</em></p>
 </div>
 
@@ -205,7 +205,7 @@ By focusing on separation of concerns and consistent patterns, I turned the proj
 
 <br/>
 
-<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
+<img id="algorithms" src="assets/img/algorithmsanddatastructure.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 
 For the Algorithms and Data Structures category, the artifact I selected is my **Deep Q Learning Cartpole project** from CS 370 Current and Emerging Trends in Computer Science. This project trains an intelligent agent to balance a pole on a moving cart using reinforcement learning.
 
@@ -218,7 +218,7 @@ The original version already showed how to use a neural network with Q learning 
 
 <div style="text-align: center;">
     <img src="assets/img/CS370-CartpoleCode.png" width="480px" title="Deep Q Learning Code Screenshot" />
-    <img src="assets/img/CS370-CartpoleGraph.png" width="480px" title="Training Performance Graph" />
+    <img src="assets/img/CS370-CartpoleGraph.jpg" width="480px" title="Training Performance Graph" />
     <p><em>Figure 5 – Deep Q Learning Code and Training Results</em></p>
 </div>
 
@@ -254,9 +254,9 @@ In the original version, data was stored in a simple SQLite structure. During en
 - Introduced stronger handling for user credentials and other sensitive information, preparing the application for future encryption and cloud integration
 
 <div style="text-align: center;">
-    <img src="assets/img/cs360-main-menu-enhanced.png.jpg" width="300px" title="Weight Tracker Logged in Page Screenshot" />
+    <img src="assets/img/CSV EXP_BKU.jpg" width="300px" title="Weight Tracker Logged in Page Screenshot" />
     <img src="assets/img/cs360-weight-chart.png.jpg" width="300px" title="Weight Entries Table Screenshot" />
-    <p><em>Figure 6 – Weight Tracker Login and Data Display Screens</em></p>
+    <p><em>Figure 6 – Weight Tracker CSV Export/Backup and Data Display Screens</em></p>
 </div>
 
 This artifact shows that I understand how application logic and databases work together. I designed and evaluated computing solutions that rely on persistent storage, and I aligned my enhancements with good database and security practices.  
