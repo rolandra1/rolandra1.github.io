@@ -100,7 +100,7 @@ Courses in security, system analysis, databases, and networking supported these 
 
 From these courses, I chose three main artifacts to represent the CS 499 categories of Software Engineering and Design, Algorithms and Data Structures, and Databases. I selected:
 
-- A full stack MEAN travel website  
+- A full-stack MEAN travel website  
 - A reinforcement learning project that uses Deep Q Learning  
 - A mobile weight tracking app backed by a secure database  
 
