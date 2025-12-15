@@ -16,8 +16,8 @@ Throughout the program, I gained practical experience in programming, system des
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Selections_](#portfolio-selections)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Future Career Preparation_](#future-career-preparation)<br/>
 
-&nbsp;[Refinement Plan and Code Review](#refinement-plan-code-review)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#codereview)<br/>
+&nbsp;[Refinement Plan and Code Review](#codereview)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link)<br/>
 
 &nbsp;[Software Engineering and Design](#softwaredesign)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering)<br/>
@@ -132,8 +132,7 @@ My ePortfolio is not just a collection of projects. It is a record of growth—s
 </div>
 
 ---
-
-# <span id="codereview">Refinement Plan & Code Review</span>
+# Refinement Plan & Code Review {#codereview}
 
 <img src="assets/img/codereview.png" width="100%" alt="Refinement Plan and Code Review">
 
@@ -150,7 +149,7 @@ Code reviews helped me identify structural issues, improve readability, and stre
     <p><em>Figure 2 – Example of Secure Password Handling in Enhanced Artifact</em></p>
 </div>
 
-### _Video Link_ {#codereview}
+### _Video Link_ {#code-reviews-video-link}
 
 [![Watch the video](https://img.shields.io/badge/YouTube-Code_Review-red?logo=youtube)](https://youtu.be/rEKlZLvnlIg)
 
