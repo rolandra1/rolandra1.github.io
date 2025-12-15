@@ -36,7 +36,7 @@ By reviewing, improving, and documenting these artifacts, I developed a clearer 
 
 ## Collaborating in a Team Environment
 
-Although many of my capstone tasks were individual, my overall experience in the program and in the Navy has trained me to work in team environments. In earlier courses, I collaborated with classmates on discussion posts, peer feedback, and shared problem solving. I learned how to accept suggestions, refine my code based on comments, and explain my choices in a clear and respectful way.
+Although many of my capstone tasks were individual, my overall experience in the program and in the Navy has trained me to work in team environments. In earlier courses, I collaborated with classmates on discussion posts, peer feedback, and shared problem-solving. I learned how to accept suggestions, refine my code based on comments, and explain my choices in a clear and respectful way.
 
 My Navy experience also shaped my collaboration skills. As a Hospital Corpsman and Radiation Health Technician, I work with providers, ship leadership, and junior sailors to keep medical readiness high. I am used to coordinating checklists, tracking follow-ups, and sharing information in a way that supports team decisions. This background carries over to software work, where code reviews, stand-up meetings, and shared repositories are just another form of mission coordination.
 
@@ -46,7 +46,7 @@ Through the capstone, I practiced collaboration in a different form by treating 
 
 ## Communicating With Stakeholders
 
-The capstone required me to practice professional communication in several formats. My code review video tested my ability to walk through existing code, explain current functionality, and communicate planned enhancements in a way that would make sense to a non-expert stakeholder such as a manager. I had to slow down, avoid unnecessary jargon, and focus on the “why” behind each change.
+The capstone required me to practice professional communication in several formats. My code review video tested my ability to walk through existing code, explain current functionality, and communicate planned enhancements in a way that would make sense to a non-expert stakeholder, such as a manager. I had to slow down, avoid unnecessary jargon, and focus on the “why” behind each change.
 
 Each narrative for my three artifacts was another form of stakeholder communication. I wrote them in simple college English, while still using correct technical vocabulary. I explained what the project was, why I selected it, what I changed, and which course outcomes I met. This helped me think like a developer who must justify design decisions to business owners, security officers, or other engineers.
 
@@ -58,7 +58,7 @@ In my future career in information security and secure software engineering, I w
 
 The algorithms and data structures category is represented in my ePortfolio by my enhanced **Deep Q-Learning Treasure Hunt** project from CS 370, documented in the [CS370 artifact page](../CS370). In this project, a pirate agent learns to navigate an eight-by-eight maze to reach a treasure using reinforcement learning and a neural network. The core of the enhancement focused on the `qtrain` training function.
 
-Through this artifact, I demonstrated my ability to design and evaluate computing solutions using algorithmic principles. I worked with an epsilon-greedy policy, replay memory, and a training loop that balances exploration and exploitation. I used a replay buffer that behaves like a bounded queue, which is a direct application of data structure concepts. I also documented the approximate time complexity of the training loop, mini-batch sampling, and prediction steps and reflected on the trade-offs between training frequency and runtime.
+Through this artifact, I demonstrated my ability to design and evaluate computing solutions using algorithmic principles. I worked with an epsilon-greedy policy, replay memory, and a training loop that balances exploration and exploitation. I used a replay buffer that behaves like a bounded queue, which is a direct application of data structure concepts. I also documented the approximate time complexity of the training loop, mini-batch sampling, and prediction steps, and reflected on the trade-offs between training frequency and runtime.
 
 Enhancing this artifact helped me meet the course outcome related to designing and evaluating computing solutions with algorithms and data structures. It also deepened my understanding of how theoretical ideas from reinforcement learning become practical code that must be efficient and stable.
 
