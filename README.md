@@ -144,8 +144,8 @@ This narrative explains how I improved the qtrain function, structured replay me
 ### Artifact  
 
 **Amos Weight Tracking App for Android (CS 360)**  
-[Original Code](original/CS360/CS360-AmosWeightTrackerApp-Original.zip)  
-[Enhanced Code](enhancement/CS360/CS360-AmosWeightTrackerApp-Enhanced.zip)  
+[Original Code](original_artifacts/CS360/CS360-AmosWeightTrackerApp-Original.zip)  
+[Enhanced Code](enhanced_artifacts/CS360/CS360-AmosWeightTrackerApp-Enhanced.zip)  
 
 ### Narrative  
 
