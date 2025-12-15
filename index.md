@@ -254,8 +254,8 @@ In the original version, data was stored in a simple SQLite structure. During en
 - Introduced stronger handling for user credentials and other sensitive information, preparing the application for future encryption and cloud integration
 
 <div style="text-align: center;">
-    <img src="assets/img/CS360-WeightTrackerLogin.png" width="800px" title="Weight Tracker Login Page Screenshot" />
-    <img src="assets/img/CS360-WeightTrackerTable.png" width="800px" title="Weight Entries Table Screenshot" />
+    <img src="assets/img/cs360-main-menu-enhanced.png" width="800px" title="Weight Tracker Logged in Page Screenshot" />
+    <img src="assets/img/cs360-weight-chart.png" width="800px" title="Weight Entries Table Screenshot" />
     <p><em>Figure 6 – Weight Tracker Login and Data Display Screens</em></p>
 </div>
 
