@@ -254,7 +254,7 @@ In the original version, data was stored in a simple SQLite structure. During en
 - Introduced stronger handling for user credentials and other sensitive information, preparing the application for future encryption and cloud integration
 
 <div style="text-align: center;">
-    <img src="assets/img/CSV EXP_BKU.jpg" width="300px" title="Weight Tracker Logged in Page Screenshot" />
+    <img src="assets/img/CSV EXP_BKU.jpg" width="600px" title="Weight Tracker Logged in Page Screenshot" />
     <img src="assets/img/cs360-weight-chart.png.jpg" width="300px" title="Weight Entries Table Screenshot" />
     <p><em>Figure 6 – Weight Tracker CSV Export/Backup and Data Display Screens</em></p>
 </div>
