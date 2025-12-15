@@ -17,7 +17,7 @@ Throughout the program, I gained practical experience in programming, system des
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Future Career Preparation_](#future-career-preparation)<br/>
 
 &nbsp;[Refinement Plan and Code Review](#refinement-plan-code-review)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#codereview)<br/>
 
 &nbsp;[Software Engineering and Design](#softwaredesign)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering)<br/>
@@ -150,7 +150,7 @@ Code reviews helped me identify structural issues, improve readability, and stre
     <p><em>Figure 2 – Example of Secure Password Handling in Enhanced Artifact</em></p>
 </div>
 
-### _Video Link_ {#code-reviews-video-link}
+### _Video Link_ {#codereview}
 
 [![Watch the video](https://img.shields.io/badge/YouTube-Code_Review-red?logo=youtube)](https://youtu.be/rEKlZLvnlIg)
 
