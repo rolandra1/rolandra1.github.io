@@ -94,7 +94,7 @@ Courses in security, system analysis, databases, and networking supported these 
 - Networking and operating systems topics helped me think about performance and communication between components.
 
 <div style="text-align: center;">
-    <img src="assets/img/CS465-WebsiteImage.png" width="100%" title="Travel Website Screenshot" />
+    <img src="assets/img/cs465-trip-list-logged-in.png" width="100%" title="Travel Website Screenshot" />
     <p><em>Figure 2 – Travel Booking Website – CS 465 Full Stack Development I</em></p>
 </div>
 
@@ -116,7 +116,7 @@ I enhanced each artifact to improve structure, performance, documentation, and s
 
 Completing the Computer Science program prepared me to step into technical roles with confidence. The program did more than teach individual languages or tools. It trained me to think like a problem solver who can analyze a situation, design a solution, communicate clearly, and keep security in mind from the beginning.
 
-I plan to apply these skills in roles related to secure software development, data security, and full stack engineering. My background as a Navy Hospital Corpsman gives me experience with responsibility, accountability, and working in high stakes environments. My computer science training adds the technical side, including secure coding practices and the ability to design systems that protect sensitive information.
+I plan to apply these skills in roles related to secure software development, data security, and full-stack engineering. My background as a Navy Hospital Corpsman gives me experience with responsibility, accountability, and working in high stakes environments. My computer science training adds the technical side, including secure coding practices and the ability to design systems that protect sensitive information.
 
 This ePortfolio is a key part of my preparation. It gathers my best work, shows before and after enhancements, and explains my decisions in language that technical reviewers can understand. It also reflects my commitment to continuous learning. As technology changes, I am ready to keep learning new frameworks, libraries, and security practices so that I stay ready for future challenges.
 
