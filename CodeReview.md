@@ -25,13 +25,15 @@ The three artifacts reviewed represent the required categories:
 
 ## Review Method and Evaluation Focus
 
-Across all artifacts, I applied consistent evaluation criteria:
+Across all artifacts, I applied consistent evaluation criteria.
 
 ### **Existing Functionality**
-Understanding the original logic and workflow before modifying anything.
+
+First, I described how the current code works and documented the main components and workflows. This step made sure I fully understood the behavior and intent of each artifact before proposing any changes.
 
 ### **Code Analysis**
-Focused on:
+
+Next, I evaluated the code with a focus on:
 
 - Architecture and structure  
 - Logic clarity and decision flow  
@@ -39,10 +41,11 @@ Focused on:
 - Security posture  
 - Input validation  
 - Error handling  
-- Documentation + comments  
+- Documentation and comments  
 
 ### **Enhancement Planning**
-Each artifact received a targeted improvement plan aligned with its category and CS 499 outcomes.
+
+Finally, I built a targeted enhancement plan for each artifact that aligns with its category and the CS 499 outcomes. These plans guided the actual changes I implemented during the capstone.
 
 ---
 
@@ -50,47 +53,51 @@ Each artifact received a targeted improvement plan aligned with its category and
 ## **Software Engineering and Design**  
 ### **Artifact: Travlr Getaways Full Stack Web Application (CS 465)**
 
-This MEAN stack application initially lacked secure routes, consistent API structure, clear model validation, and scalable architecture.
+This MEAN stack application originally started as a server-rendered travel listing site without a fully structured RESTful API, strong authentication, or scalable architecture.
 
 ### **Issues Identified**
 
-- Incomplete RESTful API structure  
-- Missing authentication for admin pages  
-- Weak error responses and inconsistent messaging  
-- Angular services and components mixed concerns  
-- Minimal validation in Mongoose schema  
+- Incomplete and inconsistent RESTful API structure  
+- Missing authentication and authorization on admin routes  
+- Weak or inconsistent error and status responses  
+- Angular components tightly coupled to data access logic  
+- Limited validation rules inside Mongoose models  
 
 ### **Enhancement Plan**
 
-- Implement JWT authentication with Passport  
-- Secure all admin routes and enforce authorization  
-- Add Mongoose validation rules  
-- Refactor Angular app into modular services and interceptors  
-- Improve response messaging and error structure  
+- Implement **JWT authentication** with Passport  
+- Secure all admin routes and enforce proper authorization  
+- Add **validation rules** in the Mongoose schemas for trips and users  
+- Refactor Angular code into **modular services** and HTTP interceptors  
+- Standardize API response formats and error messages for clarity  
+
+These enhancements move the project toward a more professional full-stack architecture and better support the Software Engineering and Design outcome.
 
 ---
 
 # Enhancement Two  
 ## **Algorithms and Data Structures**  
-### **Artifact: Deep Q Learning Cartpole Project (CS 370)**
+### **Artifact: Treasure Hunt Deep Q Learning Project (CS 370)**
 
-This reinforcement learning project required improvements in algorithm clarity, replay memory scheduling, and convergence reporting.
+This reinforcement learning project trains an agent to navigate an eight-by-eight maze and reach a treasure using Deep Q Learning. The original version needed clearer algorithm control, better replay memory usage, and more transparent training feedback.
 
 ### **Issues Identified**
 
-- Fixed epsilon value → did not adapt to learning progress  
-- Replay memory lacked strategy for batch updates  
-- No time complexity explanation  
-- Comments were minimal or missing  
-- Output did not show convergence patterns clearly  
+- Fixed the epsilon value that did not adapt to the agent’s performance  
+- Replay memory used without a structured warm-up or batch schedule  
+- No explanation of **time complexity** for the main loops  
+- Sparse or unclear comments inside the `qtrain()` function  
+- Training output did not clearly show convergence patterns  
 
 ### **Enhancement Plan**
 
-- Add win-rate-based epsilon decay  
-- Add replay warm-up phase and scheduled batch training  
-- Document time complexity in code header  
-- Rewrite comments for clarity and readability  
-- Add structured training output (loss, episodes, win rate)  
+- Add a **win rate-based epsilon adjustment** to reduce exploration as performance improves  
+- Introduce a **replay warm-up phase** and scheduled mini batch training steps  
+- Document **time complexity** for the main training loop, replay sampling, and prediction calls  
+- Rewrite comments using clear, human-friendly explanations for each training step  
+- Add structured training output for **episodes, loss, rewards, and win rate** to visualize convergence  
+
+These enhancements focus on algorithm design, data structure usage, and performance reasoning, which support the Algorithms and Data Structures outcome.
 
 ---
 
@@ -98,24 +105,26 @@ This reinforcement learning project required improvements in algorithm clarity, 
 ## **Databases**  
 ### **Artifact: Weight Tracking Mobile App (CS 360)**
 
-This Android SQLite-based weight tracking app originally stored data without encryption and had minimal validation and documentation.
+This Android weight tracking app uses SQLite to store user accounts, goals, and daily weight entries. The original version stored sensitive data without proper protection and had limited validation and documentation.
 
 ### **Issues Identified**
 
 - Passwords stored in plain text  
-- No AES encryption for weight data  
-- Unoptimized or repetitive queries  
-- No parameterized SQL statements  
-- Limited CRUD documentation  
-- Weak error handling  
+- Weight and goal values are not protected with encryption  
+- Repetitive or unoptimized SQL queries  
+- No parameterized statements to help prevent SQL injection  
+- Minimal documentation of CRUD operations in the database helper  
+- Limited error handling for database failures  
 
 ### **Enhancement Plan**
 
-- Implement SHA-256 secure password hashing  
-- Add AES encryption for weight and goal fields  
-- Refactor queries using parameterized statements  
-- Improve database helper structure + CRUD documentation  
-- Add user-friendly error handling  
+- Implement **SHA 256 hashing** for user passwords  
+- Add **AES encryption** for weight and goal fields before saving to SQLite  
+- Refactor queries into **parameterized SQL** for safety and clarity  
+- Clean up and document all CRUD operations inside the database helper  
+- Improve user-visible error handling and messaging for database operations  
+
+These changes directly support secure, efficient, and well-documented database behavior for a mobile app.
 
 ---
 
@@ -127,24 +136,24 @@ This Android SQLite-based weight tracking app originally stored data without enc
 
 [![Watch the Code Review Video](https://img.shields.io/badge/YouTube-Code_Review-red?logo=youtube&logoColor=white)](https://youtu.be/rEKlZLvnlIg)
 
-<div style="text-align: center;">
+<div class="figure-center">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
         <iframe 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             src="https://www.youtube.com/embed/rEKlZLvnlIg" 
-            title="CS 499 Code Review – Travlr Getaways, Deep Q Learning Cartpole, and Weight Tracking App" 
+            title="CS 499 Code Review – Travlr Getaways, Treasure Hunt Deep Q Learning, and Weight Tracking App" 
             frameborder="0" 
             allowfullscreen>
         </iframe>
     </div>
-    <p><em>Figure 1 – Video code review covering all three capstone artifacts.</em></p>
+    <p class="figure-caption"><em>Figure 1 – Code review video covering all three CS 499 capstone artifacts.</em></p>
 </div>
 
 ---
 
 <div style="text-align: right;">
     <a href="#top">
-        <button style="font-size: 10px; font-weight: 500; background: #6A5ACD; color: #ffffff; border-radius: 50px; padding: 5px 8px;">
+        <button class="back-to-top" style="background: #6A5ACD; color: #ffffff; border-color: #6A5ACD;">
             Back to Top ↑
         </button>
     </a>
