@@ -48,14 +48,7 @@ Today, I stand as a developing computer science professional who understands the
 
 ---
 
-<div style="text-align: center;">
-    <a href="https://rolandra1.github.io/CS340" target="_blank">
-        <img src="assets/img/CS340-AnimalShelter.png" width="720px" title="Animal Shelter Dashboard Screenshot" />
-    </a>
-    <p><em>Figure 1 – Animal Shelter Dashboard (CS 340 Client/Server Development)</em></p>
-</div>
 
----
 
 ## Skills Overview
 
