@@ -74,22 +74,43 @@ Today, I stand as a developing computer science professional who understands the
   <p style="text-align: right;">– Ron Jeffries</p>
 </blockquote>
 
-My coursework shaped my technical foundation and influenced the artifacts I selected for this portfolio. Each course contributed to a different aspect of my development:
+Several courses in the Computer Science program had a major influence on my skills and on the artifacts I chose for this portfolio. Together, they helped me move from basic programming to designing and enhancing complete solutions.
 
-- **CS 360 Mobile Architecture and Programming** — Built the Weight Tracking App  
-- **CS 465 Full Stack Development I** — Developed the Travlr Getaways full stack website  
-- **CS 370 Current & Emerging Trends in CS** — Implemented Deep Q Learning  
-- **CS 320 Software Testing & QA** — Strengthened my quality assurance mindset  
-- **CS 305 Software Security** — Built my knowledge of secure design and cryptography  
-- **DAD 220 Database Environments** — Developed SQL and relational database skills  
+CS 320 Software Testing, Automation, and Quality Assurance showed me how testing fits into every stage of the software lifecycle. I learned how to design test plans, write automated tests, and think like a tester so that I can catch issues before they reach users.  
+
+CS 360 Mobile Architecture and Programming taught me how to design and build Android applications. In this course, I created a weight tracking application, which later became one of my enhanced artifacts. I learned about activities, layouts, data persistence with SQLite, and how user experience and performance relate to code structure.
+
+CS 465 Full Stack Development I guided me through building a travel booking website using the MEAN stack. I worked with Node.js, Express, Angular, and MongoDB to create a full-stack solution with routing, views, and data storage. This project became the foundation for my full-stack artifact and was later enhanced to follow better architecture and security practices.
+
+CS 370 Current and Emerging Trends in Computer Science introduced me to artificial intelligence and neural networks. I worked on a reinforcement learning project that trained an agent to solve a control task. This experience influenced my algorithms and data structures artifact, where I improved and documented a Deep Q Learning solution.
+
+Courses in security, system analysis, databases, and networking supported these projects:
+
+- CS 305 Software Security helped me understand threats, secure design patterns, and encryption techniques.
+- CS 255 System Analysis and Design gave me practice with requirements, diagrams, and system modeling.
+- DAD 220 and related database courses helped me design and query structured data.
+- Networking and operating systems topics helped me think about performance and communication between components.
 
 <div style="text-align: center;">
-    <img src="assets/img/cs465-trip-list-logged-out.png" width="100%" title="Travel Website Screenshot" />
-    <p><em>Figure 2 – Travlr Getaways Homepage (CS 465 Full Stack Development I)</em></p>
+    <a href="https://rolandra1.github.io/CS340" target="_blank">
+        <img src="assets/img/CS340-AnimalShelter.png" width="720px" title="Animal Shelter Dashboard Screenshot" />
+    </a>
+    <p><em>Figure 1 – Animal Shelter Dashboard – CS 340 Client/Server Development</em></p>
 </div>
 
-These artifacts were enhanced for CS 499 to improve clarity, structure, performance, security, and professional documentation.
+From these courses, I chose three main artifacts to represent the CS 499 categories of Software Engineering and Design, Algorithms and Data Structures, and Databases. I selected:
 
+- Travlr Getaways – Full-Stack MEAN Application (CS 465)
+- Deep Q-Learning Treasure Hunt – Reinforcement Learning Project (CS 370)
+- Android Weight Tracking App – Secure SQLite Database (CS 360)
+
+I enhanced each artifact to improve structure, performance, documentation, and security. These enhancements demonstrate that I can revisit earlier work, analyze it with a critical eye, and bring it closer to professional expectations.
+
+<div style="text-align: right;">
+    <a href="#top">
+        <button style="font-size: 10px; font-weight: 500; background: #ff6347; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #ff6347; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 ---
 
 ### <span id="future-career-preparation">Future Career Preparation</span>
@@ -126,7 +147,7 @@ Code reviews helped me identify structural issues, improve readability, and stre
 
 <div style="text-align: center;">
     <img src="assets/img/cs360-password-hash.png.jpg" width="720px" title="Enhanced Code Screenshot" />
-    <p><em>Figure 3 – Example of Secure Password Handling in Enhanced Artifact</em></p>
+    <p><em>Figure 2 – Example of Secure Password Handling in Enhanced Artifact</em></p>
 </div>
 
 ### _Video Link_
@@ -150,7 +171,7 @@ For this category, I selected my **Travlr Getaways** full stack web application.
 <div style="text-align: center;">
     <img src="assets/img/cs465-terminal-api-start.png" width="300px" /> &nbsp;&nbsp;
     <img src="assets/img/cs465-trip-list-logged-in.png" width="300px" />
-    <p><em>Figure 4 – API Initialization and Logged-In Trip List</em></p>
+    <p><em>Figure 3 – API Initialization and Logged-In Trip List</em></p>
 </div>
 
 ### _Artifact: Software Engineering and Design_
@@ -177,7 +198,7 @@ For this category, I selected my **Deep Q Learning Cartpole** project. Enhanceme
 <div style="text-align: center;">
     <img src="assets/img/CS370-CartpoleCode.png" width="600px" />
     <img src="assets/img/CS370-CartpoleGraph.jpg" width="600px" />
-    <p><em>Figure 5 – Deep Q Learning Code and Training Graph</em></p>
+    <p><em>Figure 4 – Deep Q Learning Code and Training Graph</em></p>
 </div>
 
 ### _Artifact: Algorithms and Data Structures_
@@ -205,7 +226,7 @@ For this category, I selected my enhanced **Weight Tracking App**. Enhancements 
 <div style="text-align: center;">
     <img src="assets/img/CSV EXP_BKU.jpg" width="600px" />
     <img src="assets/img/cs360-weight-chart.png.jpg" width="300px" />
-    <p><em>Figure 6 – CSV Export/Backup and Data Chart from Weight Tracker App</em></p>
+    <p><em>Figure 5 – CSV Export/Backup and Data Chart from Weight Tracker App</em></p>
 </div>
 
 ### _Artifact: Databases_
