@@ -129,7 +129,7 @@ This narrative explains why I selected Travlr Getaways for the software design c
 
 **Deep Q Learning Treasure Hunt Project (CS 370)**  
 [Original Code](original/CS370/CS370-Deep_Q-Learning_Cartpole-Original/CS370-Deep_Q-Learning_Cartpole-Original)  
-[Enhanced Code](enhancement/CS370/CS370-Deep_Q-Learning_Cartpole-Enhanced)  
+[Enhanced Code](original_artifacts/CS370/CS370-Deep_Q-Learning_Cartpole-Original.zip)  
 
 ### Narrative  
 
