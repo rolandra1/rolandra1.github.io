@@ -279,7 +279,7 @@ The project also reflects my ability to document database behavior for other dev
 
 ## <span id="reviews">Reviews</span>
 
-> *You can add short quotes or feedback from professors, supervisors, or peers here to highlight external perspectives on your work and growth.*
+> *.*
 
 <div style="text-align: right;">
     <a href="#top">
