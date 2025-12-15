@@ -217,8 +217,8 @@ The original version already showed how to use a neural network with Q learning 
 - Added detailed output that reported episode count, loss, rewards, and success rate so that I could evaluate convergence
 
 <div style="text-align: center;">
-    <img src="assets/img/CS370-CartpoleCode.png" width="480px" title="Deep Q Learning Code Screenshot" />
-    <img src="assets/img/CS370-CartpoleGraph.jpg" width="480px" title="Training Performance Graph" />
+    <img src="assets/img/CS370-CartpoleCode.png" width="600px" title="Deep Q Learning Code Screenshot" />
+    <img src="assets/img/CS370-CartpoleGraph.jpg" width="600px" title="Training Performance Graph" />
     <p><em>Figure 5 – Deep Q Learning Code and Training Results</em></p>
 </div>
 
