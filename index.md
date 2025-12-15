@@ -2,11 +2,11 @@
 
 ## Welcome!
 
-My ePortfolio presents my journey through the Computer Science program at Southern New Hampshire University and how it connects to my current work as a United States Navy Hospital Corpsman. It shows how I grew from a learner who was curious about information security into a computer science professional who can build secure, reliable, and user friendly software.  
+My ePortfolio presents my journey through the Computer Science program at Southern New Hampshire University and how it connects to my current work as a United States Navy Hospital Corpsman. It shows how I grew from a learner who was curious about information security into a computer science professional who can build secure, reliable, and user-friendly software.  
 
 I designed this ePortfolio to communicate my skills clearly to a technical audience. It highlights my strongest work in software engineering and design, algorithms and data structures, and databases. Each artifact has been enhanced during my CS 499 Capstone to meet current industry expectations and the program outcomes for computer science.
 
-Throughout my Computer Science program, I gained experience in programming, problem solving, and application design. I worked with languages such as Java, Python, JavaScript, and SQL, and I explored areas like mobile development, full stack web development, and artificial intelligence. Both individual and team projects helped me practice communication, collaboration, and documentation while I was also balancing my Navy responsibilities.
+Throughout my Computer Science program, I gained experience in programming, problem-solving, and application design. I worked with languages such as Java, Python, JavaScript, and SQL, and I explored areas like mobile development, full-stack web development, and artificial intelligence. Both individual and team projects helped me practice communication, collaboration, and documentation while I was also balancing my Navy responsibilities.
 
 ### <u>Table of Content</u>
 
@@ -23,11 +23,11 @@ Throughout my Computer Science program, I gained experience in programming, prob
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
 &nbsp;[Reviews](#reviews "ePortfolio Reviews")
 
-<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Self-Assessment" />
+<img id="self-assessment" src="assets/img/self_assessment.png" alt="Professional Self-Assessment" title="Self-Assessment" />
 
-I started taking classes at Southern New Hampshire University in 2021 and later committed fully to the Computer Science program. My short term goal was to complete an associate degree in computer science to see how my interest in technology and my early programming skills would fit in a formal program. After finishing the associate degree, I continued straight into the Bachelor of Science in Computer Science without a break.  
+I started taking classes at Southern New Hampshire University in 2023 and fully to the Computer Science program. My short term goal was to complete an associate degree in computer science to see how my interest in technology and my early programming skills would fit in a formal program. After finishing the associate degree, I continued straight into the Bachelor of Science in Computer Science without a break.  
 
-During that time I was also serving as a Navy Hospital Corpsman and Radiation Health Technician, responsible for handling sensitive medical, radiation health, and readiness data. This experience made me take security, accuracy, and attention to detail very seriously. The computer science program helped me bring those habits into software design, secure coding, and data management.
+During that time, I was also serving as a Navy Hospital Corpsman and Radiation Health Technician, responsible for handling sensitive medical, radiation health, and readiness data. This experience made me take security, accuracy, and attention to detail very seriously. The computer science program helped me bring those habits into software design, secure coding, and data management.
 
 While in the program, I developed practical skills in networking, security, mobile development, web development, and artificial intelligence. I learned to plan my code in small steps, test often, and think carefully about edge cases and vulnerabilities. As projects became more complex, I saw how important clear structure, documentation, and testing are for building reliable systems that other people can understand and maintain.
 
@@ -40,7 +40,7 @@ Working on group projects and discussions also helped me practice communication 
     <p><em>Figure 1 – Animal Shelter Dashboard – CS 340 Client/Server Development</em></p>
 </div>
 
-Through enhancements and a security focused mindset, I have become more deliberate about how I design and review code. I break problems into manageable parts, follow consistent coding standards, and use testing and logging to verify that the system behaves as expected. Code reviews and self review also help me look for weaknesses that could lead to bugs or security issues.  
+Through enhancements and a security-focused mindset, I have become more deliberate about how I design and review code. I break problems into manageable parts, follow consistent coding standards, and use testing and logging to verify that the system behaves as expected. Code reviews and self review also help me look for weaknesses that could lead to bugs or security issues.  
 
 My coursework in database management, networking, and security gave me a foundation for working with data in a responsible way. I learned to think about who owns the data, who should access it, and how to protect it from misuse. This has been especially important to me because I already work with real people’s health information in my daily job.
 
@@ -76,13 +76,13 @@ As I continue to grow, my goal is to work in roles that combine software develop
   <p style="text-align: right;">by Ron Jeffries</p>
 </blockquote>
 
-Several courses in the Computer Science program had a major influence on my skills and on the artifacts I chose for this portfolio. Together they helped me move from basic programming to designing and enhancing complete solutions.
+Several courses in the Computer Science program had a major influence on my skills and on the artifacts I chose for this portfolio. Together, they helped me move from basic programming to designing and enhancing complete solutions.
 
 CS 320 Software Testing, Automation, and Quality Assurance showed me how testing fits into every stage of the software lifecycle. I learned how to design test plans, write automated tests, and think like a tester so that I can catch issues before they reach users.  
 
-CS 360 Mobile Architecture and Programming taught me how to design and build Android applications. In this course I created a weight tracking application, which later became one of my enhanced artifacts. I learned about activities, layouts, data persistence with SQLite, and how user experience and performance relate to code structure.
+CS 360 Mobile Architecture and Programming taught me how to design and build Android applications. In this course, I created a weight tracking application, which later became one of my enhanced artifacts. I learned about activities, layouts, data persistence with SQLite, and how user experience and performance relate to code structure.
 
-CS 465 Full Stack Development I guided me through building a travel booking website using the MEAN stack. I worked with Node.js, Express, Angular, and MongoDB to create a full stack solution with routing, views, and data storage. This project became the foundation for my full stack artifact and was later enhanced to follow better architecture and security practices.
+CS 465 Full Stack Development I guided me through building a travel booking website using the MEAN stack. I worked with Node.js, Express, Angular, and MongoDB to create a full-stack solution with routing, views, and data storage. This project became the foundation for my full stack artifact and was later enhanced to follow better architecture and security practices.
 
 CS 370 Current and Emerging Trends in Computer Science introduced me to artificial intelligence and neural networks. I worked on a reinforcement learning project that trained an agent to solve a control task. This experience influenced my algorithms and data structures artifact, where I improved and documented a Deep Q Learning solution.
 
@@ -142,11 +142,14 @@ In my refinement plan, I focused on several themes:
 Through this process, I learned to look at my own code as if I were joining a new team and reviewing an existing system. This mindset will help me contribute to real projects where code already exists and needs to be improved instead of rebuilt from the ground up.
 
 <div style="text-align: center;">
-    <img src="assets/img/EnhancedCode.png" width="720px" title="Enhanced Code Screenshot" />
+    <img src="assets/img/CSV EXP_BKU.png" width="720px" title="Enhanced Code Screenshot" />
     <p><em>Figure 3 – Enhanced Code Example from an Artifact</em></p>
 </div>
 
 ### _Videos Link To Code Review_ {#code-reviews-video-link}
+
+[![Watch the video](https://img.shields.io/badge/YouTube-Code_Review-red?logo=youtube&logoColor=white)](https://youtu.be/rEKlZLvnlIg)
+
 
 <div style="text-align: center;">
     <a href="https://rolandra1.github.io/CodeReview" title="Artifacts Code Review">
@@ -168,7 +171,7 @@ Through the [Refinement Plan and Code Review](https://rolandra1.github.io/CodeRe
 
 I selected this artifact because it represents a complete software system that includes routing, views, data access, authentication, and error handling. Enhancing this project required me to think about system architecture, modular design, maintainability, and security.
 
-During enhancement I:
+During enhancement, I:
 
 - Cleaned up the backend structure by organizing controllers, models, and routes in a clearer way  
 - Strengthened the API layer so that it followed REST principles more closely and returned consistent responses  
@@ -206,7 +209,7 @@ By focusing on separation of concerns and consistent patterns, I turned the proj
 
 For the Algorithms and Data Structures category, the artifact I selected is my **Deep Q Learning Cartpole project** from CS 370 Current and Emerging Trends in Computer Science. This project trains an intelligent agent to balance a pole on a moving cart using reinforcement learning.
 
-The original version already showed how to use a neural network with Q learning to approximate the value function. During enhancement I focused on the algorithmic side and on clarity:
+The original version already showed how to use a neural network with Q learning to approximate the value function. During enhancement, I focused on the algorithmic side and on clarity:
 
 - Refined the Q learning loop and experience replay logic to make the flow easier to follow  
 - Tuned parameters such as the learning rate, discount factor, and exploration rate to study how they affected training  
