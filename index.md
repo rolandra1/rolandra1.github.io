@@ -16,7 +16,7 @@ Throughout the program, I gained practical experience in programming, system des
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Selections_](#portfolio-selections)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Future Career Preparation_](#future-career-preparation)<br/>
 
-&nbsp;[Enhanement Plan and Code Review](#refinement-plan-code-review)<br/>
+&nbsp;[Refinement Plan and Code Review](#refinement-plan-code-review)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link)<br/>
 
 &nbsp;[Software Engineering and Design](#softwaredesign)<br/>
@@ -133,7 +133,7 @@ My ePortfolio is not just a collection of projects. It is a record of growth—s
 
 ---
 
-# <span id="codereview">Enhancement Plan & Code Review</span>
+# <span id="codereview">Refinement Plan & Code Review</span>
 
 <img src="assets/img/codereview.png" width="100%" alt="Refinement Plan and Code Review">
 
