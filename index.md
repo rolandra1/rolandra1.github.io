@@ -70,8 +70,8 @@ Today, I stand as a developing computer science professional who understands the
 ### <span id="portfolio-selections">Portfolio Selections</span>
 
 <blockquote style="font-size: 20px;">
-  <em>"Code never lies, comments sometimes do."</em>
-  <p style="text-align: right;">– Ron Jeffries</p>
+  <em>"Security is not a product, but a process."</em>
+  <p style="text-align: right;">– Bruce Schneier</p>
 </blockquote>
 
 Several courses in the Computer Science program had a major influence on my skills and on the artifacts I chose for this portfolio. Together, they helped me move from basic programming to designing and enhancing complete solutions.
