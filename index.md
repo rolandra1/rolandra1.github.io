@@ -16,7 +16,7 @@ Throughout the program, I gained practical experience in programming, system des
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Selections_](#portfolio-selections)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Future Career Preparation_](#future-career-preparation)<br/>
 
-&nbsp;[Refinement Plan and Code Review](#codereview)<br/>
+&nbsp;[Enhanement Plan and Code Review](#refinement-plan-code-review)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link)<br/>
 
 &nbsp;[Software Engineering and Design](#softwaredesign)<br/>
@@ -150,7 +150,7 @@ Code reviews helped me identify structural issues, improve readability, and stre
     <p><em>Figure 2 – Example of Secure Password Handling in Enhanced Artifact</em></p>
 </div>
 
-### _Video Link_
+### _Video Link_ {#code-reviews-video-link}
 
 [![Watch the video](https://img.shields.io/badge/YouTube-Code_Review-red?logo=youtube)](https://youtu.be/rEKlZLvnlIg)
 
@@ -160,13 +160,13 @@ Code reviews helped me identify structural issues, improve readability, and stre
 
 <img src="assets/img/softwareengineeringanddesign.png" width="100%">
 
-For this category, I selected my **Travlr Getaways** full stack web application. Enhancements included:
+For this category, I selected my **Travlr Getaways** full-stack web application. Enhancements included:
 
 - Clearer backend structure using controllers/models/routes  
 - Strengthened REST API behavior  
 - Improved validation before database writes  
 - Better error handling and modular design  
-- Cleaner connection between Angular front end and Express backend  
+- Cleaner connection between Angular front-end and Express backend  
 
 <div style="text-align: center;">
     <img src="assets/img/cs465-terminal-api-start.png" width="300px" /> &nbsp;&nbsp;
